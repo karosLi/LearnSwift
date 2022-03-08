@@ -1,0 +1,1 @@
+{"object": {"artifacts": [], "dependencies": [{"basedOn": null, "packageRef": {"identity": "rxswift", "kind": "remote", "name": "RxSwift", "path": "https://github.com/ReactiveX/RxSwift.git"}, "state": {"checkoutState": {"branch": null, "revision": "7c17a6ccca06b5c107cfa4284e634562ddaf5951", "version": "6.2.0"}, "name": "checkout"}, "subpath": "RxSwift"}]}, "version": 4}

@@ -1,0 +1,557 @@
+{
+  "": {
+    "swift-dependencies": "/Users/karosli/Documents/Study/iOS/Swift/Swift原理/iOSSwiftTest 函数响应式编程/.build/arm64-apple-macosx/debug/RxCocoa.build/master.swiftdeps"
+  },
+  "/Users/karosli/Documents/Study/iOS/Swift/Swift原理/iOSSwiftTest 函数响应式编程/.build/checkouts/RxSwift/Sources/RxCocoa/BehaviorRelay+Driver.swift": {
+    "dependencies": "/Users/karosli/Documents/Study/iOS/Swift/Swift原理/iOSSwiftTest 函数响应式编程/.build/arm64-apple-macosx/debug/RxCocoa.build/BehaviorRelay+Driver.d",
+    "object": "/Users/karosli/Documents/Study/iOS/Swift/Swift原理/iOSSwiftTest 函数响应式编程/.build/arm64-apple-macosx/debug/RxCocoa.build/BehaviorRelay+Driver.swift.o",
+    "swiftmodule": "/Users/karosli/Documents/Study/iOS/Swift/Swift原理/iOSSwiftTest 函数响应式编程/.build/arm64-apple-macosx/debug/RxCocoa.build/BehaviorRelay+Driver~partial.swiftmodule",
+    "swift-dependencies": "/Users/karosli/Documents/Study/iOS/Swift/Swift原理/iOSSwiftTest 函数响应式编程/.build/arm64-apple-macosx/debug/RxCocoa.build/BehaviorRelay+Driver.swiftdeps"
+  },
+  "/Users/karosli/Documents/Study/iOS/Swift/Swift原理/iOSSwiftTest 函数响应式编程/.build/checkouts/RxSwift/Sources/RxCocoa/ControlEvent+Driver.swift": {
+    "dependencies": "/Users/karosli/Documents/Study/iOS/Swift/Swift原理/iOSSwiftTest 函数响应式编程/.build/arm64-apple-macosx/debug/RxCocoa.build/ControlEvent+Driver.d",
+    "object": "/Users/karosli/Documents/Study/iOS/Swift/Swift原理/iOSSwiftTest 函数响应式编程/.build/arm64-apple-macosx/debug/RxCocoa.build/ControlEvent+Driver.swift.o",
+    "swiftmodule": "/Users/karosli/Documents/Study/iOS/Swift/Swift原理/iOSSwiftTest 函数响应式编程/.build/arm64-apple-macosx/debug/RxCocoa.build/ControlEvent+Driver~partial.swiftmodule",
+    "swift-dependencies": "/Users/karosli/Documents/Study/iOS/Swift/Swift原理/iOSSwiftTest 函数响应式编程/.build/arm64-apple-macosx/debug/RxCocoa.build/ControlEvent+Driver.swiftdeps"
+  },
+  "/Users/karosli/Documents/Study/iOS/Swift/Swift原理/iOSSwiftTest 函数响应式编程/.build/checkouts/RxSwift/Sources/RxCocoa/ControlEvent+Signal.swift": {
+    "dependencies": "/Users/karosli/Documents/Study/iOS/Swift/Swift原理/iOSSwiftTest 函数响应式编程/.build/arm64-apple-macosx/debug/RxCocoa.build/ControlEvent+Signal.d",
+    "object": "/Users/karosli/Documents/Study/iOS/Swift/Swift原理/iOSSwiftTest 函数响应式编程/.build/arm64-apple-macosx/debug/RxCocoa.build/ControlEvent+Signal.swift.o",
+    "swiftmodule": "/Users/karosli/Documents/Study/iOS/Swift/Swift原理/iOSSwiftTest 函数响应式编程/.build/arm64-apple-macosx/debug/RxCocoa.build/ControlEvent+Signal~partial.swiftmodule",
+    "swift-dependencies": "/Users/karosli/Documents/Study/iOS/Swift/Swift原理/iOSSwiftTest 函数响应式编程/.build/arm64-apple-macosx/debug/RxCocoa.build/ControlEvent+Signal.swiftdeps"
+  },
+  "/Users/karosli/Documents/Study/iOS/Swift/Swift原理/iOSSwiftTest 函数响应式编程/.build/checkouts/RxSwift/Sources/RxCocoa/ControlEvent.swift": {
+    "dependencies": "/Users/karosli/Documents/Study/iOS/Swift/Swift原理/iOSSwiftTest 函数响应式编程/.build/arm64-apple-macosx/debug/RxCocoa.build/ControlEvent.d",
+    "object": "/Users/karosli/Documents/Study/iOS/Swift/Swift原理/iOSSwiftTest 函数响应式编程/.build/arm64-apple-macosx/debug/RxCocoa.build/ControlEvent.swift.o",
+    "swiftmodule": "/Users/karosli/Documents/Study/iOS/Swift/Swift原理/iOSSwiftTest 函数响应式编程/.build/arm64-apple-macosx/debug/RxCocoa.build/ControlEvent~partial.swiftmodule",
+    "swift-dependencies": "/Users/karosli/Documents/Study/iOS/Swift/Swift原理/iOSSwiftTest 函数响应式编程/.build/arm64-apple-macosx/debug/RxCocoa.build/ControlEvent.swiftdeps"
+  },
+  "/Users/karosli/Documents/Study/iOS/Swift/Swift原理/iOSSwiftTest 函数响应式编程/.build/checkouts/RxSwift/Sources/RxCocoa/ControlProperty+Driver.swift": {
+    "dependencies": "/Users/karosli/Documents/Study/iOS/Swift/Swift原理/iOSSwiftTest 函数响应式编程/.build/arm64-apple-macosx/debug/RxCocoa.build/ControlProperty+Driver.d",
+    "object": "/Users/karosli/Documents/Study/iOS/Swift/Swift原理/iOSSwiftTest 函数响应式编程/.build/arm64-apple-macosx/debug/RxCocoa.build/ControlProperty+Driver.swift.o",
+    "swiftmodule": "/Users/karosli/Documents/Study/iOS/Swift/Swift原理/iOSSwiftTest 函数响应式编程/.build/arm64-apple-macosx/debug/RxCocoa.build/ControlProperty+Driver~partial.swiftmodule",
+    "swift-dependencies": "/Users/karosli/Documents/Study/iOS/Swift/Swift原理/iOSSwiftTest 函数响应式编程/.build/arm64-apple-macosx/debug/RxCocoa.build/ControlProperty+Driver.swiftdeps"
+  },
+  "/Users/karosli/Documents/Study/iOS/Swift/Swift原理/iOSSwiftTest 函数响应式编程/.build/checkouts/RxSwift/Sources/RxCocoa/ControlProperty.swift": {
+    "dependencies": "/Users/karosli/Documents/Study/iOS/Swift/Swift原理/iOSSwiftTest 函数响应式编程/.build/arm64-apple-macosx/debug/RxCocoa.build/ControlProperty.d",
+    "object": "/Users/karosli/Documents/Study/iOS/Swift/Swift原理/iOSSwiftTest 函数响应式编程/.build/arm64-apple-macosx/debug/RxCocoa.build/ControlProperty.swift.o",
+    "swiftmodule": "/Users/karosli/Documents/Study/iOS/Swift/Swift原理/iOSSwiftTest 函数响应式编程/.build/arm64-apple-macosx/debug/RxCocoa.build/ControlProperty~partial.swiftmodule",
+    "swift-dependencies": "/Users/karosli/Documents/Study/iOS/Swift/Swift原理/iOSSwiftTest 函数响应式编程/.build/arm64-apple-macosx/debug/RxCocoa.build/ControlProperty.swiftdeps"
+  },
+  "/Users/karosli/Documents/Study/iOS/Swift/Swift原理/iOSSwiftTest 函数响应式编程/.build/checkouts/RxSwift/Sources/RxCocoa/ControlTarget.swift": {
+    "dependencies": "/Users/karosli/Documents/Study/iOS/Swift/Swift原理/iOSSwiftTest 函数响应式编程/.build/arm64-apple-macosx/debug/RxCocoa.build/ControlTarget.d",
+    "object": "/Users/karosli/Documents/Study/iOS/Swift/Swift原理/iOSSwiftTest 函数响应式编程/.build/arm64-apple-macosx/debug/RxCocoa.build/ControlTarget.swift.o",
+    "swiftmodule": "/Users/karosli/Documents/Study/iOS/Swift/Swift原理/iOSSwiftTest 函数响应式编程/.build/arm64-apple-macosx/debug/RxCocoa.build/ControlTarget~partial.swiftmodule",
+    "swift-dependencies": "/Users/karosli/Documents/Study/iOS/Swift/Swift原理/iOSSwiftTest 函数响应式编程/.build/arm64-apple-macosx/debug/RxCocoa.build/ControlTarget.swiftdeps"
+  },
+  "/Users/karosli/Documents/Study/iOS/Swift/Swift原理/iOSSwiftTest 函数响应式编程/.build/checkouts/RxSwift/Sources/RxCocoa/DelegateProxy.swift": {
+    "dependencies": "/Users/karosli/Documents/Study/iOS/Swift/Swift原理/iOSSwiftTest 函数响应式编程/.build/arm64-apple-macosx/debug/RxCocoa.build/DelegateProxy.d",
+    "object": "/Users/karosli/Documents/Study/iOS/Swift/Swift原理/iOSSwiftTest 函数响应式编程/.build/arm64-apple-macosx/debug/RxCocoa.build/DelegateProxy.swift.o",
+    "swiftmodule": "/Users/karosli/Documents/Study/iOS/Swift/Swift原理/iOSSwiftTest 函数响应式编程/.build/arm64-apple-macosx/debug/RxCocoa.build/DelegateProxy~partial.swiftmodule",
+    "swift-dependencies": "/Users/karosli/Documents/Study/iOS/Swift/Swift原理/iOSSwiftTest 函数响应式编程/.build/arm64-apple-macosx/debug/RxCocoa.build/DelegateProxy.swiftdeps"
+  },
+  "/Users/karosli/Documents/Study/iOS/Swift/Swift原理/iOSSwiftTest 函数响应式编程/.build/checkouts/RxSwift/Sources/RxCocoa/DelegateProxyType.swift": {
+    "dependencies": "/Users/karosli/Documents/Study/iOS/Swift/Swift原理/iOSSwiftTest 函数响应式编程/.build/arm64-apple-macosx/debug/RxCocoa.build/DelegateProxyType.d",
+    "object": "/Users/karosli/Documents/Study/iOS/Swift/Swift原理/iOSSwiftTest 函数响应式编程/.build/arm64-apple-macosx/debug/RxCocoa.build/DelegateProxyType.swift.o",
+    "swiftmodule": "/Users/karosli/Documents/Study/iOS/Swift/Swift原理/iOSSwiftTest 函数响应式编程/.build/arm64-apple-macosx/debug/RxCocoa.build/DelegateProxyType~partial.swiftmodule",
+    "swift-dependencies": "/Users/karosli/Documents/Study/iOS/Swift/Swift原理/iOSSwiftTest 函数响应式编程/.build/arm64-apple-macosx/debug/RxCocoa.build/DelegateProxyType.swiftdeps"
+  },
+  "/Users/karosli/Documents/Study/iOS/Swift/Swift原理/iOSSwiftTest 函数响应式编程/.build/checkouts/RxSwift/Sources/RxCocoa/DispatchQueue+Extensions.swift": {
+    "dependencies": "/Users/karosli/Documents/Study/iOS/Swift/Swift原理/iOSSwiftTest 函数响应式编程/.build/arm64-apple-macosx/debug/RxCocoa.build/DispatchQueue+Extensions.d",
+    "object": "/Users/karosli/Documents/Study/iOS/Swift/Swift原理/iOSSwiftTest 函数响应式编程/.build/arm64-apple-macosx/debug/RxCocoa.build/DispatchQueue+Extensions.swift.o",
+    "swiftmodule": "/Users/karosli/Documents/Study/iOS/Swift/Swift原理/iOSSwiftTest 函数响应式编程/.build/arm64-apple-macosx/debug/RxCocoa.build/DispatchQueue+Extensions~partial.swiftmodule",
+    "swift-dependencies": "/Users/karosli/Documents/Study/iOS/Swift/Swift原理/iOSSwiftTest 函数响应式编程/.build/arm64-apple-macosx/debug/RxCocoa.build/DispatchQueue+Extensions.swiftdeps"
+  },
+  "/Users/karosli/Documents/Study/iOS/Swift/Swift原理/iOSSwiftTest 函数响应式编程/.build/checkouts/RxSwift/Sources/RxCocoa/Driver+Subscription.swift": {
+    "dependencies": "/Users/karosli/Documents/Study/iOS/Swift/Swift原理/iOSSwiftTest 函数响应式编程/.build/arm64-apple-macosx/debug/RxCocoa.build/Driver+Subscription.d",
+    "object": "/Users/karosli/Documents/Study/iOS/Swift/Swift原理/iOSSwiftTest 函数响应式编程/.build/arm64-apple-macosx/debug/RxCocoa.build/Driver+Subscription.swift.o",
+    "swiftmodule": "/Users/karosli/Documents/Study/iOS/Swift/Swift原理/iOSSwiftTest 函数响应式编程/.build/arm64-apple-macosx/debug/RxCocoa.build/Driver+Subscription~partial.swiftmodule",
+    "swift-dependencies": "/Users/karosli/Documents/Study/iOS/Swift/Swift原理/iOSSwiftTest 函数响应式编程/.build/arm64-apple-macosx/debug/RxCocoa.build/Driver+Subscription.swiftdeps"
+  },
+  "/Users/karosli/Documents/Study/iOS/Swift/Swift原理/iOSSwiftTest 函数响应式编程/.build/checkouts/RxSwift/Sources/RxCocoa/Driver.swift": {
+    "dependencies": "/Users/karosli/Documents/Study/iOS/Swift/Swift原理/iOSSwiftTest 函数响应式编程/.build/arm64-apple-macosx/debug/RxCocoa.build/Driver.d",
+    "object": "/Users/karosli/Documents/Study/iOS/Swift/Swift原理/iOSSwiftTest 函数响应式编程/.build/arm64-apple-macosx/debug/RxCocoa.build/Driver.swift.o",
+    "swiftmodule": "/Users/karosli/Documents/Study/iOS/Swift/Swift原理/iOSSwiftTest 函数响应式编程/.build/arm64-apple-macosx/debug/RxCocoa.build/Driver~partial.swiftmodule",
+    "swift-dependencies": "/Users/karosli/Documents/Study/iOS/Swift/Swift原理/iOSSwiftTest 函数响应式编程/.build/arm64-apple-macosx/debug/RxCocoa.build/Driver.swiftdeps"
+  },
+  "/Users/karosli/Documents/Study/iOS/Swift/Swift原理/iOSSwiftTest 函数响应式编程/.build/checkouts/RxSwift/Sources/RxCocoa/Infallible+Bind.swift": {
+    "dependencies": "/Users/karosli/Documents/Study/iOS/Swift/Swift原理/iOSSwiftTest 函数响应式编程/.build/arm64-apple-macosx/debug/RxCocoa.build/Infallible+Bind.d",
+    "object": "/Users/karosli/Documents/Study/iOS/Swift/Swift原理/iOSSwiftTest 函数响应式编程/.build/arm64-apple-macosx/debug/RxCocoa.build/Infallible+Bind.swift.o",
+    "swiftmodule": "/Users/karosli/Documents/Study/iOS/Swift/Swift原理/iOSSwiftTest 函数响应式编程/.build/arm64-apple-macosx/debug/RxCocoa.build/Infallible+Bind~partial.swiftmodule",
+    "swift-dependencies": "/Users/karosli/Documents/Study/iOS/Swift/Swift原理/iOSSwiftTest 函数响应式编程/.build/arm64-apple-macosx/debug/RxCocoa.build/Infallible+Bind.swiftdeps"
+  },
+  "/Users/karosli/Documents/Study/iOS/Swift/Swift原理/iOSSwiftTest 函数响应式编程/.build/checkouts/RxSwift/Sources/RxCocoa/ItemEvents.swift": {
+    "dependencies": "/Users/karosli/Documents/Study/iOS/Swift/Swift原理/iOSSwiftTest 函数响应式编程/.build/arm64-apple-macosx/debug/RxCocoa.build/ItemEvents.d",
+    "object": "/Users/karosli/Documents/Study/iOS/Swift/Swift原理/iOSSwiftTest 函数响应式编程/.build/arm64-apple-macosx/debug/RxCocoa.build/ItemEvents.swift.o",
+    "swiftmodule": "/Users/karosli/Documents/Study/iOS/Swift/Swift原理/iOSSwiftTest 函数响应式编程/.build/arm64-apple-macosx/debug/RxCocoa.build/ItemEvents~partial.swiftmodule",
+    "swift-dependencies": "/Users/karosli/Documents/Study/iOS/Swift/Swift原理/iOSSwiftTest 函数响应式编程/.build/arm64-apple-macosx/debug/RxCocoa.build/ItemEvents.swiftdeps"
+  },
+  "/Users/karosli/Documents/Study/iOS/Swift/Swift原理/iOSSwiftTest 函数响应式编程/.build/checkouts/RxSwift/Sources/RxCocoa/KVORepresentable+CoreGraphics.swift": {
+    "dependencies": "/Users/karosli/Documents/Study/iOS/Swift/Swift原理/iOSSwiftTest 函数响应式编程/.build/arm64-apple-macosx/debug/RxCocoa.build/KVORepresentable+CoreGraphics.d",
+    "object": "/Users/karosli/Documents/Study/iOS/Swift/Swift原理/iOSSwiftTest 函数响应式编程/.build/arm64-apple-macosx/debug/RxCocoa.build/KVORepresentable+CoreGraphics.swift.o",
+    "swiftmodule": "/Users/karosli/Documents/Study/iOS/Swift/Swift原理/iOSSwiftTest 函数响应式编程/.build/arm64-apple-macosx/debug/RxCocoa.build/KVORepresentable+CoreGraphics~partial.swiftmodule",
+    "swift-dependencies": "/Users/karosli/Documents/Study/iOS/Swift/Swift原理/iOSSwiftTest 函数响应式编程/.build/arm64-apple-macosx/debug/RxCocoa.build/KVORepresentable+CoreGraphics.swiftdeps"
+  },
+  "/Users/karosli/Documents/Study/iOS/Swift/Swift原理/iOSSwiftTest 函数响应式编程/.build/checkouts/RxSwift/Sources/RxCocoa/KVORepresentable+Swift.swift": {
+    "dependencies": "/Users/karosli/Documents/Study/iOS/Swift/Swift原理/iOSSwiftTest 函数响应式编程/.build/arm64-apple-macosx/debug/RxCocoa.build/KVORepresentable+Swift.d",
+    "object": "/Users/karosli/Documents/Study/iOS/Swift/Swift原理/iOSSwiftTest 函数响应式编程/.build/arm64-apple-macosx/debug/RxCocoa.build/KVORepresentable+Swift.swift.o",
+    "swiftmodule": "/Users/karosli/Documents/Study/iOS/Swift/Swift原理/iOSSwiftTest 函数响应式编程/.build/arm64-apple-macosx/debug/RxCocoa.build/KVORepresentable+Swift~partial.swiftmodule",
+    "swift-dependencies": "/Users/karosli/Documents/Study/iOS/Swift/Swift原理/iOSSwiftTest 函数响应式编程/.build/arm64-apple-macosx/debug/RxCocoa.build/KVORepresentable+Swift.swiftdeps"
+  },
+  "/Users/karosli/Documents/Study/iOS/Swift/Swift原理/iOSSwiftTest 函数响应式编程/.build/checkouts/RxSwift/Sources/RxCocoa/KVORepresentable.swift": {
+    "dependencies": "/Users/karosli/Documents/Study/iOS/Swift/Swift原理/iOSSwiftTest 函数响应式编程/.build/arm64-apple-macosx/debug/RxCocoa.build/KVORepresentable.d",
+    "object": "/Users/karosli/Documents/Study/iOS/Swift/Swift原理/iOSSwiftTest 函数响应式编程/.build/arm64-apple-macosx/debug/RxCocoa.build/KVORepresentable.swift.o",
+    "swiftmodule": "/Users/karosli/Documents/Study/iOS/Swift/Swift原理/iOSSwiftTest 函数响应式编程/.build/arm64-apple-macosx/debug/RxCocoa.build/KVORepresentable~partial.swiftmodule",
+    "swift-dependencies": "/Users/karosli/Documents/Study/iOS/Swift/Swift原理/iOSSwiftTest 函数响应式编程/.build/arm64-apple-macosx/debug/RxCocoa.build/KVORepresentable.swiftdeps"
+  },
+  "/Users/karosli/Documents/Study/iOS/Swift/Swift原理/iOSSwiftTest 函数响应式编程/.build/checkouts/RxSwift/Sources/RxCocoa/NSButton+Rx.swift": {
+    "dependencies": "/Users/karosli/Documents/Study/iOS/Swift/Swift原理/iOSSwiftTest 函数响应式编程/.build/arm64-apple-macosx/debug/RxCocoa.build/NSButton+Rx.d",
+    "object": "/Users/karosli/Documents/Study/iOS/Swift/Swift原理/iOSSwiftTest 函数响应式编程/.build/arm64-apple-macosx/debug/RxCocoa.build/NSButton+Rx.swift.o",
+    "swiftmodule": "/Users/karosli/Documents/Study/iOS/Swift/Swift原理/iOSSwiftTest 函数响应式编程/.build/arm64-apple-macosx/debug/RxCocoa.build/NSButton+Rx~partial.swiftmodule",
+    "swift-dependencies": "/Users/karosli/Documents/Study/iOS/Swift/Swift原理/iOSSwiftTest 函数响应式编程/.build/arm64-apple-macosx/debug/RxCocoa.build/NSButton+Rx.swiftdeps"
+  },
+  "/Users/karosli/Documents/Study/iOS/Swift/Swift原理/iOSSwiftTest 函数响应式编程/.build/checkouts/RxSwift/Sources/RxCocoa/NSControl+Rx.swift": {
+    "dependencies": "/Users/karosli/Documents/Study/iOS/Swift/Swift原理/iOSSwiftTest 函数响应式编程/.build/arm64-apple-macosx/debug/RxCocoa.build/NSControl+Rx.d",
+    "object": "/Users/karosli/Documents/Study/iOS/Swift/Swift原理/iOSSwiftTest 函数响应式编程/.build/arm64-apple-macosx/debug/RxCocoa.build/NSControl+Rx.swift.o",
+    "swiftmodule": "/Users/karosli/Documents/Study/iOS/Swift/Swift原理/iOSSwiftTest 函数响应式编程/.build/arm64-apple-macosx/debug/RxCocoa.build/NSControl+Rx~partial.swiftmodule",
+    "swift-dependencies": "/Users/karosli/Documents/Study/iOS/Swift/Swift原理/iOSSwiftTest 函数响应式编程/.build/arm64-apple-macosx/debug/RxCocoa.build/NSControl+Rx.swiftdeps"
+  },
+  "/Users/karosli/Documents/Study/iOS/Swift/Swift原理/iOSSwiftTest 函数响应式编程/.build/checkouts/RxSwift/Sources/RxCocoa/NSObject+Rx+KVORepresentable.swift": {
+    "dependencies": "/Users/karosli/Documents/Study/iOS/Swift/Swift原理/iOSSwiftTest 函数响应式编程/.build/arm64-apple-macosx/debug/RxCocoa.build/NSObject+Rx+KVORepresentable.d",
+    "object": "/Users/karosli/Documents/Study/iOS/Swift/Swift原理/iOSSwiftTest 函数响应式编程/.build/arm64-apple-macosx/debug/RxCocoa.build/NSObject+Rx+KVORepresentable.swift.o",
+    "swiftmodule": "/Users/karosli/Documents/Study/iOS/Swift/Swift原理/iOSSwiftTest 函数响应式编程/.build/arm64-apple-macosx/debug/RxCocoa.build/NSObject+Rx+KVORepresentable~partial.swiftmodule",
+    "swift-dependencies": "/Users/karosli/Documents/Study/iOS/Swift/Swift原理/iOSSwiftTest 函数响应式编程/.build/arm64-apple-macosx/debug/RxCocoa.build/NSObject+Rx+KVORepresentable.swiftdeps"
+  },
+  "/Users/karosli/Documents/Study/iOS/Swift/Swift原理/iOSSwiftTest 函数响应式编程/.build/checkouts/RxSwift/Sources/RxCocoa/NSObject+Rx+RawRepresentable.swift": {
+    "dependencies": "/Users/karosli/Documents/Study/iOS/Swift/Swift原理/iOSSwiftTest 函数响应式编程/.build/arm64-apple-macosx/debug/RxCocoa.build/NSObject+Rx+RawRepresentable.d",
+    "object": "/Users/karosli/Documents/Study/iOS/Swift/Swift原理/iOSSwiftTest 函数响应式编程/.build/arm64-apple-macosx/debug/RxCocoa.build/NSObject+Rx+RawRepresentable.swift.o",
+    "swiftmodule": "/Users/karosli/Documents/Study/iOS/Swift/Swift原理/iOSSwiftTest 函数响应式编程/.build/arm64-apple-macosx/debug/RxCocoa.build/NSObject+Rx+RawRepresentable~partial.swiftmodule",
+    "swift-dependencies": "/Users/karosli/Documents/Study/iOS/Swift/Swift原理/iOSSwiftTest 函数响应式编程/.build/arm64-apple-macosx/debug/RxCocoa.build/NSObject+Rx+RawRepresentable.swiftdeps"
+  },
+  "/Users/karosli/Documents/Study/iOS/Swift/Swift原理/iOSSwiftTest 函数响应式编程/.build/checkouts/RxSwift/Sources/RxCocoa/NSObject+Rx.swift": {
+    "dependencies": "/Users/karosli/Documents/Study/iOS/Swift/Swift原理/iOSSwiftTest 函数响应式编程/.build/arm64-apple-macosx/debug/RxCocoa.build/NSObject+Rx.d",
+    "object": "/Users/karosli/Documents/Study/iOS/Swift/Swift原理/iOSSwiftTest 函数响应式编程/.build/arm64-apple-macosx/debug/RxCocoa.build/NSObject+Rx.swift.o",
+    "swiftmodule": "/Users/karosli/Documents/Study/iOS/Swift/Swift原理/iOSSwiftTest 函数响应式编程/.build/arm64-apple-macosx/debug/RxCocoa.build/NSObject+Rx~partial.swiftmodule",
+    "swift-dependencies": "/Users/karosli/Documents/Study/iOS/Swift/Swift原理/iOSSwiftTest 函数响应式编程/.build/arm64-apple-macosx/debug/RxCocoa.build/NSObject+Rx.swiftdeps"
+  },
+  "/Users/karosli/Documents/Study/iOS/Swift/Swift原理/iOSSwiftTest 函数响应式编程/.build/checkouts/RxSwift/Sources/RxCocoa/NSSlider+Rx.swift": {
+    "dependencies": "/Users/karosli/Documents/Study/iOS/Swift/Swift原理/iOSSwiftTest 函数响应式编程/.build/arm64-apple-macosx/debug/RxCocoa.build/NSSlider+Rx.d",
+    "object": "/Users/karosli/Documents/Study/iOS/Swift/Swift原理/iOSSwiftTest 函数响应式编程/.build/arm64-apple-macosx/debug/RxCocoa.build/NSSlider+Rx.swift.o",
+    "swiftmodule": "/Users/karosli/Documents/Study/iOS/Swift/Swift原理/iOSSwiftTest 函数响应式编程/.build/arm64-apple-macosx/debug/RxCocoa.build/NSSlider+Rx~partial.swiftmodule",
+    "swift-dependencies": "/Users/karosli/Documents/Study/iOS/Swift/Swift原理/iOSSwiftTest 函数响应式编程/.build/arm64-apple-macosx/debug/RxCocoa.build/NSSlider+Rx.swiftdeps"
+  },
+  "/Users/karosli/Documents/Study/iOS/Swift/Swift原理/iOSSwiftTest 函数响应式编程/.build/checkouts/RxSwift/Sources/RxCocoa/NSTextField+Rx.swift": {
+    "dependencies": "/Users/karosli/Documents/Study/iOS/Swift/Swift原理/iOSSwiftTest 函数响应式编程/.build/arm64-apple-macosx/debug/RxCocoa.build/NSTextField+Rx.d",
+    "object": "/Users/karosli/Documents/Study/iOS/Swift/Swift原理/iOSSwiftTest 函数响应式编程/.build/arm64-apple-macosx/debug/RxCocoa.build/NSTextField+Rx.swift.o",
+    "swiftmodule": "/Users/karosli/Documents/Study/iOS/Swift/Swift原理/iOSSwiftTest 函数响应式编程/.build/arm64-apple-macosx/debug/RxCocoa.build/NSTextField+Rx~partial.swiftmodule",
+    "swift-dependencies": "/Users/karosli/Documents/Study/iOS/Swift/Swift原理/iOSSwiftTest 函数响应式编程/.build/arm64-apple-macosx/debug/RxCocoa.build/NSTextField+Rx.swiftdeps"
+  },
+  "/Users/karosli/Documents/Study/iOS/Swift/Swift原理/iOSSwiftTest 函数响应式编程/.build/checkouts/RxSwift/Sources/RxCocoa/NSTextStorage+Rx.swift": {
+    "dependencies": "/Users/karosli/Documents/Study/iOS/Swift/Swift原理/iOSSwiftTest 函数响应式编程/.build/arm64-apple-macosx/debug/RxCocoa.build/NSTextStorage+Rx.d",
+    "object": "/Users/karosli/Documents/Study/iOS/Swift/Swift原理/iOSSwiftTest 函数响应式编程/.build/arm64-apple-macosx/debug/RxCocoa.build/NSTextStorage+Rx.swift.o",
+    "swiftmodule": "/Users/karosli/Documents/Study/iOS/Swift/Swift原理/iOSSwiftTest 函数响应式编程/.build/arm64-apple-macosx/debug/RxCocoa.build/NSTextStorage+Rx~partial.swiftmodule",
+    "swift-dependencies": "/Users/karosli/Documents/Study/iOS/Swift/Swift原理/iOSSwiftTest 函数响应式编程/.build/arm64-apple-macosx/debug/RxCocoa.build/NSTextStorage+Rx.swiftdeps"
+  },
+  "/Users/karosli/Documents/Study/iOS/Swift/Swift原理/iOSSwiftTest 函数响应式编程/.build/checkouts/RxSwift/Sources/RxCocoa/NSTextView+Rx.swift": {
+    "dependencies": "/Users/karosli/Documents/Study/iOS/Swift/Swift原理/iOSSwiftTest 函数响应式编程/.build/arm64-apple-macosx/debug/RxCocoa.build/NSTextView+Rx.d",
+    "object": "/Users/karosli/Documents/Study/iOS/Swift/Swift原理/iOSSwiftTest 函数响应式编程/.build/arm64-apple-macosx/debug/RxCocoa.build/NSTextView+Rx.swift.o",
+    "swiftmodule": "/Users/karosli/Documents/Study/iOS/Swift/Swift原理/iOSSwiftTest 函数响应式编程/.build/arm64-apple-macosx/debug/RxCocoa.build/NSTextView+Rx~partial.swiftmodule",
+    "swift-dependencies": "/Users/karosli/Documents/Study/iOS/Swift/Swift原理/iOSSwiftTest 函数响应式编程/.build/arm64-apple-macosx/debug/RxCocoa.build/NSTextView+Rx.swiftdeps"
+  },
+  "/Users/karosli/Documents/Study/iOS/Swift/Swift原理/iOSSwiftTest 函数响应式编程/.build/checkouts/RxSwift/Sources/RxCocoa/NSView+Rx.swift": {
+    "dependencies": "/Users/karosli/Documents/Study/iOS/Swift/Swift原理/iOSSwiftTest 函数响应式编程/.build/arm64-apple-macosx/debug/RxCocoa.build/NSView+Rx.d",
+    "object": "/Users/karosli/Documents/Study/iOS/Swift/Swift原理/iOSSwiftTest 函数响应式编程/.build/arm64-apple-macosx/debug/RxCocoa.build/NSView+Rx.swift.o",
+    "swiftmodule": "/Users/karosli/Documents/Study/iOS/Swift/Swift原理/iOSSwiftTest 函数响应式编程/.build/arm64-apple-macosx/debug/RxCocoa.build/NSView+Rx~partial.swiftmodule",
+    "swift-dependencies": "/Users/karosli/Documents/Study/iOS/Swift/Swift原理/iOSSwiftTest 函数响应式编程/.build/arm64-apple-macosx/debug/RxCocoa.build/NSView+Rx.swiftdeps"
+  },
+  "/Users/karosli/Documents/Study/iOS/Swift/Swift原理/iOSSwiftTest 函数响应式编程/.build/checkouts/RxSwift/Sources/RxCocoa/NotificationCenter+Rx.swift": {
+    "dependencies": "/Users/karosli/Documents/Study/iOS/Swift/Swift原理/iOSSwiftTest 函数响应式编程/.build/arm64-apple-macosx/debug/RxCocoa.build/NotificationCenter+Rx.d",
+    "object": "/Users/karosli/Documents/Study/iOS/Swift/Swift原理/iOSSwiftTest 函数响应式编程/.build/arm64-apple-macosx/debug/RxCocoa.build/NotificationCenter+Rx.swift.o",
+    "swiftmodule": "/Users/karosli/Documents/Study/iOS/Swift/Swift原理/iOSSwiftTest 函数响应式编程/.build/arm64-apple-macosx/debug/RxCocoa.build/NotificationCenter+Rx~partial.swiftmodule",
+    "swift-dependencies": "/Users/karosli/Documents/Study/iOS/Swift/Swift原理/iOSSwiftTest 函数响应式编程/.build/arm64-apple-macosx/debug/RxCocoa.build/NotificationCenter+Rx.swiftdeps"
+  },
+  "/Users/karosli/Documents/Study/iOS/Swift/Swift原理/iOSSwiftTest 函数响应式编程/.build/checkouts/RxSwift/Sources/RxCocoa/Observable+Bind.swift": {
+    "dependencies": "/Users/karosli/Documents/Study/iOS/Swift/Swift原理/iOSSwiftTest 函数响应式编程/.build/arm64-apple-macosx/debug/RxCocoa.build/Observable+Bind.d",
+    "object": "/Users/karosli/Documents/Study/iOS/Swift/Swift原理/iOSSwiftTest 函数响应式编程/.build/arm64-apple-macosx/debug/RxCocoa.build/Observable+Bind.swift.o",
+    "swiftmodule": "/Users/karosli/Documents/Study/iOS/Swift/Swift原理/iOSSwiftTest 函数响应式编程/.build/arm64-apple-macosx/debug/RxCocoa.build/Observable+Bind~partial.swiftmodule",
+    "swift-dependencies": "/Users/karosli/Documents/Study/iOS/Swift/Swift原理/iOSSwiftTest 函数响应式编程/.build/arm64-apple-macosx/debug/RxCocoa.build/Observable+Bind.swiftdeps"
+  },
+  "/Users/karosli/Documents/Study/iOS/Swift/Swift原理/iOSSwiftTest 函数响应式编程/.build/checkouts/RxSwift/Sources/RxCocoa/ObservableConvertibleType+Driver.swift": {
+    "dependencies": "/Users/karosli/Documents/Study/iOS/Swift/Swift原理/iOSSwiftTest 函数响应式编程/.build/arm64-apple-macosx/debug/RxCocoa.build/ObservableConvertibleType+Driver.d",
+    "object": "/Users/karosli/Documents/Study/iOS/Swift/Swift原理/iOSSwiftTest 函数响应式编程/.build/arm64-apple-macosx/debug/RxCocoa.build/ObservableConvertibleType+Driver.swift.o",
+    "swiftmodule": "/Users/karosli/Documents/Study/iOS/Swift/Swift原理/iOSSwiftTest 函数响应式编程/.build/arm64-apple-macosx/debug/RxCocoa.build/ObservableConvertibleType+Driver~partial.swiftmodule",
+    "swift-dependencies": "/Users/karosli/Documents/Study/iOS/Swift/Swift原理/iOSSwiftTest 函数响应式编程/.build/arm64-apple-macosx/debug/RxCocoa.build/ObservableConvertibleType+Driver.swiftdeps"
+  },
+  "/Users/karosli/Documents/Study/iOS/Swift/Swift原理/iOSSwiftTest 函数响应式编程/.build/checkouts/RxSwift/Sources/RxCocoa/ObservableConvertibleType+SharedSequence.swift": {
+    "dependencies": "/Users/karosli/Documents/Study/iOS/Swift/Swift原理/iOSSwiftTest 函数响应式编程/.build/arm64-apple-macosx/debug/RxCocoa.build/ObservableConvertibleType+SharedSequence.d",
+    "object": "/Users/karosli/Documents/Study/iOS/Swift/Swift原理/iOSSwiftTest 函数响应式编程/.build/arm64-apple-macosx/debug/RxCocoa.build/ObservableConvertibleType+SharedSequence.swift.o",
+    "swiftmodule": "/Users/karosli/Documents/Study/iOS/Swift/Swift原理/iOSSwiftTest 函数响应式编程/.build/arm64-apple-macosx/debug/RxCocoa.build/ObservableConvertibleType+SharedSequence~partial.swiftmodule",
+    "swift-dependencies": "/Users/karosli/Documents/Study/iOS/Swift/Swift原理/iOSSwiftTest 函数响应式编程/.build/arm64-apple-macosx/debug/RxCocoa.build/ObservableConvertibleType+SharedSequence.swiftdeps"
+  },
+  "/Users/karosli/Documents/Study/iOS/Swift/Swift原理/iOSSwiftTest 函数响应式编程/.build/checkouts/RxSwift/Sources/RxCocoa/ObservableConvertibleType+Signal.swift": {
+    "dependencies": "/Users/karosli/Documents/Study/iOS/Swift/Swift原理/iOSSwiftTest 函数响应式编程/.build/arm64-apple-macosx/debug/RxCocoa.build/ObservableConvertibleType+Signal.d",
+    "object": "/Users/karosli/Documents/Study/iOS/Swift/Swift原理/iOSSwiftTest 函数响应式编程/.build/arm64-apple-macosx/debug/RxCocoa.build/ObservableConvertibleType+Signal.swift.o",
+    "swiftmodule": "/Users/karosli/Documents/Study/iOS/Swift/Swift原理/iOSSwiftTest 函数响应式编程/.build/arm64-apple-macosx/debug/RxCocoa.build/ObservableConvertibleType+Signal~partial.swiftmodule",
+    "swift-dependencies": "/Users/karosli/Documents/Study/iOS/Swift/Swift原理/iOSSwiftTest 函数响应式编程/.build/arm64-apple-macosx/debug/RxCocoa.build/ObservableConvertibleType+Signal.swiftdeps"
+  },
+  "/Users/karosli/Documents/Study/iOS/Swift/Swift原理/iOSSwiftTest 函数响应式编程/.build/checkouts/RxSwift/Sources/RxCocoa/PublishRelay+Signal.swift": {
+    "dependencies": "/Users/karosli/Documents/Study/iOS/Swift/Swift原理/iOSSwiftTest 函数响应式编程/.build/arm64-apple-macosx/debug/RxCocoa.build/PublishRelay+Signal.d",
+    "object": "/Users/karosli/Documents/Study/iOS/Swift/Swift原理/iOSSwiftTest 函数响应式编程/.build/arm64-apple-macosx/debug/RxCocoa.build/PublishRelay+Signal.swift.o",
+    "swiftmodule": "/Users/karosli/Documents/Study/iOS/Swift/Swift原理/iOSSwiftTest 函数响应式编程/.build/arm64-apple-macosx/debug/RxCocoa.build/PublishRelay+Signal~partial.swiftmodule",
+    "swift-dependencies": "/Users/karosli/Documents/Study/iOS/Swift/Swift原理/iOSSwiftTest 函数响应式编程/.build/arm64-apple-macosx/debug/RxCocoa.build/PublishRelay+Signal.swiftdeps"
+  },
+  "/Users/karosli/Documents/Study/iOS/Swift/Swift原理/iOSSwiftTest 函数响应式编程/.build/checkouts/RxSwift/Sources/RxCocoa/RxCocoa.swift": {
+    "dependencies": "/Users/karosli/Documents/Study/iOS/Swift/Swift原理/iOSSwiftTest 函数响应式编程/.build/arm64-apple-macosx/debug/RxCocoa.build/RxCocoa.d",
+    "object": "/Users/karosli/Documents/Study/iOS/Swift/Swift原理/iOSSwiftTest 函数响应式编程/.build/arm64-apple-macosx/debug/RxCocoa.build/RxCocoa.swift.o",
+    "swiftmodule": "/Users/karosli/Documents/Study/iOS/Swift/Swift原理/iOSSwiftTest 函数响应式编程/.build/arm64-apple-macosx/debug/RxCocoa.build/RxCocoa~partial.swiftmodule",
+    "swift-dependencies": "/Users/karosli/Documents/Study/iOS/Swift/Swift原理/iOSSwiftTest 函数响应式编程/.build/arm64-apple-macosx/debug/RxCocoa.build/RxCocoa.swiftdeps"
+  },
+  "/Users/karosli/Documents/Study/iOS/Swift/Swift原理/iOSSwiftTest 函数响应式编程/.build/checkouts/RxSwift/Sources/RxCocoa/RxCocoaObjCRuntimeError+Extensions.swift": {
+    "dependencies": "/Users/karosli/Documents/Study/iOS/Swift/Swift原理/iOSSwiftTest 函数响应式编程/.build/arm64-apple-macosx/debug/RxCocoa.build/RxCocoaObjCRuntimeError+Extensions.d",
+    "object": "/Users/karosli/Documents/Study/iOS/Swift/Swift原理/iOSSwiftTest 函数响应式编程/.build/arm64-apple-macosx/debug/RxCocoa.build/RxCocoaObjCRuntimeError+Extensions.swift.o",
+    "swiftmodule": "/Users/karosli/Documents/Study/iOS/Swift/Swift原理/iOSSwiftTest 函数响应式编程/.build/arm64-apple-macosx/debug/RxCocoa.build/RxCocoaObjCRuntimeError+Extensions~partial.swiftmodule",
+    "swift-dependencies": "/Users/karosli/Documents/Study/iOS/Swift/Swift原理/iOSSwiftTest 函数响应式编程/.build/arm64-apple-macosx/debug/RxCocoa.build/RxCocoaObjCRuntimeError+Extensions.swiftdeps"
+  },
+  "/Users/karosli/Documents/Study/iOS/Swift/Swift原理/iOSSwiftTest 函数响应式编程/.build/checkouts/RxSwift/Sources/RxCocoa/RxCollectionViewDataSourcePrefetchingProxy.swift": {
+    "dependencies": "/Users/karosli/Documents/Study/iOS/Swift/Swift原理/iOSSwiftTest 函数响应式编程/.build/arm64-apple-macosx/debug/RxCocoa.build/RxCollectionViewDataSourcePrefetchingProxy.d",
+    "object": "/Users/karosli/Documents/Study/iOS/Swift/Swift原理/iOSSwiftTest 函数响应式编程/.build/arm64-apple-macosx/debug/RxCocoa.build/RxCollectionViewDataSourcePrefetchingProxy.swift.o",
+    "swiftmodule": "/Users/karosli/Documents/Study/iOS/Swift/Swift原理/iOSSwiftTest 函数响应式编程/.build/arm64-apple-macosx/debug/RxCocoa.build/RxCollectionViewDataSourcePrefetchingProxy~partial.swiftmodule",
+    "swift-dependencies": "/Users/karosli/Documents/Study/iOS/Swift/Swift原理/iOSSwiftTest 函数响应式编程/.build/arm64-apple-macosx/debug/RxCocoa.build/RxCollectionViewDataSourcePrefetchingProxy.swiftdeps"
+  },
+  "/Users/karosli/Documents/Study/iOS/Swift/Swift原理/iOSSwiftTest 函数响应式编程/.build/checkouts/RxSwift/Sources/RxCocoa/RxCollectionViewDataSourceProxy.swift": {
+    "dependencies": "/Users/karosli/Documents/Study/iOS/Swift/Swift原理/iOSSwiftTest 函数响应式编程/.build/arm64-apple-macosx/debug/RxCocoa.build/RxCollectionViewDataSourceProxy.d",
+    "object": "/Users/karosli/Documents/Study/iOS/Swift/Swift原理/iOSSwiftTest 函数响应式编程/.build/arm64-apple-macosx/debug/RxCocoa.build/RxCollectionViewDataSourceProxy.swift.o",
+    "swiftmodule": "/Users/karosli/Documents/Study/iOS/Swift/Swift原理/iOSSwiftTest 函数响应式编程/.build/arm64-apple-macosx/debug/RxCocoa.build/RxCollectionViewDataSourceProxy~partial.swiftmodule",
+    "swift-dependencies": "/Users/karosli/Documents/Study/iOS/Swift/Swift原理/iOSSwiftTest 函数响应式编程/.build/arm64-apple-macosx/debug/RxCocoa.build/RxCollectionViewDataSourceProxy.swiftdeps"
+  },
+  "/Users/karosli/Documents/Study/iOS/Swift/Swift原理/iOSSwiftTest 函数响应式编程/.build/checkouts/RxSwift/Sources/RxCocoa/RxCollectionViewDataSourceType.swift": {
+    "dependencies": "/Users/karosli/Documents/Study/iOS/Swift/Swift原理/iOSSwiftTest 函数响应式编程/.build/arm64-apple-macosx/debug/RxCocoa.build/RxCollectionViewDataSourceType.d",
+    "object": "/Users/karosli/Documents/Study/iOS/Swift/Swift原理/iOSSwiftTest 函数响应式编程/.build/arm64-apple-macosx/debug/RxCocoa.build/RxCollectionViewDataSourceType.swift.o",
+    "swiftmodule": "/Users/karosli/Documents/Study/iOS/Swift/Swift原理/iOSSwiftTest 函数响应式编程/.build/arm64-apple-macosx/debug/RxCocoa.build/RxCollectionViewDataSourceType~partial.swiftmodule",
+    "swift-dependencies": "/Users/karosli/Documents/Study/iOS/Swift/Swift原理/iOSSwiftTest 函数响应式编程/.build/arm64-apple-macosx/debug/RxCocoa.build/RxCollectionViewDataSourceType.swiftdeps"
+  },
+  "/Users/karosli/Documents/Study/iOS/Swift/Swift原理/iOSSwiftTest 函数响应式编程/.build/checkouts/RxSwift/Sources/RxCocoa/RxCollectionViewDelegateProxy.swift": {
+    "dependencies": "/Users/karosli/Documents/Study/iOS/Swift/Swift原理/iOSSwiftTest 函数响应式编程/.build/arm64-apple-macosx/debug/RxCocoa.build/RxCollectionViewDelegateProxy.d",
+    "object": "/Users/karosli/Documents/Study/iOS/Swift/Swift原理/iOSSwiftTest 函数响应式编程/.build/arm64-apple-macosx/debug/RxCocoa.build/RxCollectionViewDelegateProxy.swift.o",
+    "swiftmodule": "/Users/karosli/Documents/Study/iOS/Swift/Swift原理/iOSSwiftTest 函数响应式编程/.build/arm64-apple-macosx/debug/RxCocoa.build/RxCollectionViewDelegateProxy~partial.swiftmodule",
+    "swift-dependencies": "/Users/karosli/Documents/Study/iOS/Swift/Swift原理/iOSSwiftTest 函数响应式编程/.build/arm64-apple-macosx/debug/RxCocoa.build/RxCollectionViewDelegateProxy.swiftdeps"
+  },
+  "/Users/karosli/Documents/Study/iOS/Swift/Swift原理/iOSSwiftTest 函数响应式编程/.build/checkouts/RxSwift/Sources/RxCocoa/RxCollectionViewReactiveArrayDataSource.swift": {
+    "dependencies": "/Users/karosli/Documents/Study/iOS/Swift/Swift原理/iOSSwiftTest 函数响应式编程/.build/arm64-apple-macosx/debug/RxCocoa.build/RxCollectionViewReactiveArrayDataSource.d",
+    "object": "/Users/karosli/Documents/Study/iOS/Swift/Swift原理/iOSSwiftTest 函数响应式编程/.build/arm64-apple-macosx/debug/RxCocoa.build/RxCollectionViewReactiveArrayDataSource.swift.o",
+    "swiftmodule": "/Users/karosli/Documents/Study/iOS/Swift/Swift原理/iOSSwiftTest 函数响应式编程/.build/arm64-apple-macosx/debug/RxCocoa.build/RxCollectionViewReactiveArrayDataSource~partial.swiftmodule",
+    "swift-dependencies": "/Users/karosli/Documents/Study/iOS/Swift/Swift原理/iOSSwiftTest 函数响应式编程/.build/arm64-apple-macosx/debug/RxCocoa.build/RxCollectionViewReactiveArrayDataSource.swiftdeps"
+  },
+  "/Users/karosli/Documents/Study/iOS/Swift/Swift原理/iOSSwiftTest 函数响应式编程/.build/checkouts/RxSwift/Sources/RxCocoa/RxNavigationControllerDelegateProxy.swift": {
+    "dependencies": "/Users/karosli/Documents/Study/iOS/Swift/Swift原理/iOSSwiftTest 函数响应式编程/.build/arm64-apple-macosx/debug/RxCocoa.build/RxNavigationControllerDelegateProxy.d",
+    "object": "/Users/karosli/Documents/Study/iOS/Swift/Swift原理/iOSSwiftTest 函数响应式编程/.build/arm64-apple-macosx/debug/RxCocoa.build/RxNavigationControllerDelegateProxy.swift.o",
+    "swiftmodule": "/Users/karosli/Documents/Study/iOS/Swift/Swift原理/iOSSwiftTest 函数响应式编程/.build/arm64-apple-macosx/debug/RxCocoa.build/RxNavigationControllerDelegateProxy~partial.swiftmodule",
+    "swift-dependencies": "/Users/karosli/Documents/Study/iOS/Swift/Swift原理/iOSSwiftTest 函数响应式编程/.build/arm64-apple-macosx/debug/RxCocoa.build/RxNavigationControllerDelegateProxy.swiftdeps"
+  },
+  "/Users/karosli/Documents/Study/iOS/Swift/Swift原理/iOSSwiftTest 函数响应式编程/.build/checkouts/RxSwift/Sources/RxCocoa/RxPickerViewAdapter.swift": {
+    "dependencies": "/Users/karosli/Documents/Study/iOS/Swift/Swift原理/iOSSwiftTest 函数响应式编程/.build/arm64-apple-macosx/debug/RxCocoa.build/RxPickerViewAdapter.d",
+    "object": "/Users/karosli/Documents/Study/iOS/Swift/Swift原理/iOSSwiftTest 函数响应式编程/.build/arm64-apple-macosx/debug/RxCocoa.build/RxPickerViewAdapter.swift.o",
+    "swiftmodule": "/Users/karosli/Documents/Study/iOS/Swift/Swift原理/iOSSwiftTest 函数响应式编程/.build/arm64-apple-macosx/debug/RxCocoa.build/RxPickerViewAdapter~partial.swiftmodule",
+    "swift-dependencies": "/Users/karosli/Documents/Study/iOS/Swift/Swift原理/iOSSwiftTest 函数响应式编程/.build/arm64-apple-macosx/debug/RxCocoa.build/RxPickerViewAdapter.swiftdeps"
+  },
+  "/Users/karosli/Documents/Study/iOS/Swift/Swift原理/iOSSwiftTest 函数响应式编程/.build/checkouts/RxSwift/Sources/RxCocoa/RxPickerViewDataSourceProxy.swift": {
+    "dependencies": "/Users/karosli/Documents/Study/iOS/Swift/Swift原理/iOSSwiftTest 函数响应式编程/.build/arm64-apple-macosx/debug/RxCocoa.build/RxPickerViewDataSourceProxy.d",
+    "object": "/Users/karosli/Documents/Study/iOS/Swift/Swift原理/iOSSwiftTest 函数响应式编程/.build/arm64-apple-macosx/debug/RxCocoa.build/RxPickerViewDataSourceProxy.swift.o",
+    "swiftmodule": "/Users/karosli/Documents/Study/iOS/Swift/Swift原理/iOSSwiftTest 函数响应式编程/.build/arm64-apple-macosx/debug/RxCocoa.build/RxPickerViewDataSourceProxy~partial.swiftmodule",
+    "swift-dependencies": "/Users/karosli/Documents/Study/iOS/Swift/Swift原理/iOSSwiftTest 函数响应式编程/.build/arm64-apple-macosx/debug/RxCocoa.build/RxPickerViewDataSourceProxy.swiftdeps"
+  },
+  "/Users/karosli/Documents/Study/iOS/Swift/Swift原理/iOSSwiftTest 函数响应式编程/.build/checkouts/RxSwift/Sources/RxCocoa/RxPickerViewDataSourceType.swift": {
+    "dependencies": "/Users/karosli/Documents/Study/iOS/Swift/Swift原理/iOSSwiftTest 函数响应式编程/.build/arm64-apple-macosx/debug/RxCocoa.build/RxPickerViewDataSourceType.d",
+    "object": "/Users/karosli/Documents/Study/iOS/Swift/Swift原理/iOSSwiftTest 函数响应式编程/.build/arm64-apple-macosx/debug/RxCocoa.build/RxPickerViewDataSourceType.swift.o",
+    "swiftmodule": "/Users/karosli/Documents/Study/iOS/Swift/Swift原理/iOSSwiftTest 函数响应式编程/.build/arm64-apple-macosx/debug/RxCocoa.build/RxPickerViewDataSourceType~partial.swiftmodule",
+    "swift-dependencies": "/Users/karosli/Documents/Study/iOS/Swift/Swift原理/iOSSwiftTest 函数响应式编程/.build/arm64-apple-macosx/debug/RxCocoa.build/RxPickerViewDataSourceType.swiftdeps"
+  },
+  "/Users/karosli/Documents/Study/iOS/Swift/Swift原理/iOSSwiftTest 函数响应式编程/.build/checkouts/RxSwift/Sources/RxCocoa/RxPickerViewDelegateProxy.swift": {
+    "dependencies": "/Users/karosli/Documents/Study/iOS/Swift/Swift原理/iOSSwiftTest 函数响应式编程/.build/arm64-apple-macosx/debug/RxCocoa.build/RxPickerViewDelegateProxy.d",
+    "object": "/Users/karosli/Documents/Study/iOS/Swift/Swift原理/iOSSwiftTest 函数响应式编程/.build/arm64-apple-macosx/debug/RxCocoa.build/RxPickerViewDelegateProxy.swift.o",
+    "swiftmodule": "/Users/karosli/Documents/Study/iOS/Swift/Swift原理/iOSSwiftTest 函数响应式编程/.build/arm64-apple-macosx/debug/RxCocoa.build/RxPickerViewDelegateProxy~partial.swiftmodule",
+    "swift-dependencies": "/Users/karosli/Documents/Study/iOS/Swift/Swift原理/iOSSwiftTest 函数响应式编程/.build/arm64-apple-macosx/debug/RxCocoa.build/RxPickerViewDelegateProxy.swiftdeps"
+  },
+  "/Users/karosli/Documents/Study/iOS/Swift/Swift原理/iOSSwiftTest 函数响应式编程/.build/checkouts/RxSwift/Sources/RxCocoa/RxScrollViewDelegateProxy.swift": {
+    "dependencies": "/Users/karosli/Documents/Study/iOS/Swift/Swift原理/iOSSwiftTest 函数响应式编程/.build/arm64-apple-macosx/debug/RxCocoa.build/RxScrollViewDelegateProxy.d",
+    "object": "/Users/karosli/Documents/Study/iOS/Swift/Swift原理/iOSSwiftTest 函数响应式编程/.build/arm64-apple-macosx/debug/RxCocoa.build/RxScrollViewDelegateProxy.swift.o",
+    "swiftmodule": "/Users/karosli/Documents/Study/iOS/Swift/Swift原理/iOSSwiftTest 函数响应式编程/.build/arm64-apple-macosx/debug/RxCocoa.build/RxScrollViewDelegateProxy~partial.swiftmodule",
+    "swift-dependencies": "/Users/karosli/Documents/Study/iOS/Swift/Swift原理/iOSSwiftTest 函数响应式编程/.build/arm64-apple-macosx/debug/RxCocoa.build/RxScrollViewDelegateProxy.swiftdeps"
+  },
+  "/Users/karosli/Documents/Study/iOS/Swift/Swift原理/iOSSwiftTest 函数响应式编程/.build/checkouts/RxSwift/Sources/RxCocoa/RxSearchBarDelegateProxy.swift": {
+    "dependencies": "/Users/karosli/Documents/Study/iOS/Swift/Swift原理/iOSSwiftTest 函数响应式编程/.build/arm64-apple-macosx/debug/RxCocoa.build/RxSearchBarDelegateProxy.d",
+    "object": "/Users/karosli/Documents/Study/iOS/Swift/Swift原理/iOSSwiftTest 函数响应式编程/.build/arm64-apple-macosx/debug/RxCocoa.build/RxSearchBarDelegateProxy.swift.o",
+    "swiftmodule": "/Users/karosli/Documents/Study/iOS/Swift/Swift原理/iOSSwiftTest 函数响应式编程/.build/arm64-apple-macosx/debug/RxCocoa.build/RxSearchBarDelegateProxy~partial.swiftmodule",
+    "swift-dependencies": "/Users/karosli/Documents/Study/iOS/Swift/Swift原理/iOSSwiftTest 函数响应式编程/.build/arm64-apple-macosx/debug/RxCocoa.build/RxSearchBarDelegateProxy.swiftdeps"
+  },
+  "/Users/karosli/Documents/Study/iOS/Swift/Swift原理/iOSSwiftTest 函数响应式编程/.build/checkouts/RxSwift/Sources/RxCocoa/RxSearchControllerDelegateProxy.swift": {
+    "dependencies": "/Users/karosli/Documents/Study/iOS/Swift/Swift原理/iOSSwiftTest 函数响应式编程/.build/arm64-apple-macosx/debug/RxCocoa.build/RxSearchControllerDelegateProxy.d",
+    "object": "/Users/karosli/Documents/Study/iOS/Swift/Swift原理/iOSSwiftTest 函数响应式编程/.build/arm64-apple-macosx/debug/RxCocoa.build/RxSearchControllerDelegateProxy.swift.o",
+    "swiftmodule": "/Users/karosli/Documents/Study/iOS/Swift/Swift原理/iOSSwiftTest 函数响应式编程/.build/arm64-apple-macosx/debug/RxCocoa.build/RxSearchControllerDelegateProxy~partial.swiftmodule",
+    "swift-dependencies": "/Users/karosli/Documents/Study/iOS/Swift/Swift原理/iOSSwiftTest 函数响应式编程/.build/arm64-apple-macosx/debug/RxCocoa.build/RxSearchControllerDelegateProxy.swiftdeps"
+  },
+  "/Users/karosli/Documents/Study/iOS/Swift/Swift原理/iOSSwiftTest 函数响应式编程/.build/checkouts/RxSwift/Sources/RxCocoa/RxTabBarControllerDelegateProxy.swift": {
+    "dependencies": "/Users/karosli/Documents/Study/iOS/Swift/Swift原理/iOSSwiftTest 函数响应式编程/.build/arm64-apple-macosx/debug/RxCocoa.build/RxTabBarControllerDelegateProxy.d",
+    "object": "/Users/karosli/Documents/Study/iOS/Swift/Swift原理/iOSSwiftTest 函数响应式编程/.build/arm64-apple-macosx/debug/RxCocoa.build/RxTabBarControllerDelegateProxy.swift.o",
+    "swiftmodule": "/Users/karosli/Documents/Study/iOS/Swift/Swift原理/iOSSwiftTest 函数响应式编程/.build/arm64-apple-macosx/debug/RxCocoa.build/RxTabBarControllerDelegateProxy~partial.swiftmodule",
+    "swift-dependencies": "/Users/karosli/Documents/Study/iOS/Swift/Swift原理/iOSSwiftTest 函数响应式编程/.build/arm64-apple-macosx/debug/RxCocoa.build/RxTabBarControllerDelegateProxy.swiftdeps"
+  },
+  "/Users/karosli/Documents/Study/iOS/Swift/Swift原理/iOSSwiftTest 函数响应式编程/.build/checkouts/RxSwift/Sources/RxCocoa/RxTabBarDelegateProxy.swift": {
+    "dependencies": "/Users/karosli/Documents/Study/iOS/Swift/Swift原理/iOSSwiftTest 函数响应式编程/.build/arm64-apple-macosx/debug/RxCocoa.build/RxTabBarDelegateProxy.d",
+    "object": "/Users/karosli/Documents/Study/iOS/Swift/Swift原理/iOSSwiftTest 函数响应式编程/.build/arm64-apple-macosx/debug/RxCocoa.build/RxTabBarDelegateProxy.swift.o",
+    "swiftmodule": "/Users/karosli/Documents/Study/iOS/Swift/Swift原理/iOSSwiftTest 函数响应式编程/.build/arm64-apple-macosx/debug/RxCocoa.build/RxTabBarDelegateProxy~partial.swiftmodule",
+    "swift-dependencies": "/Users/karosli/Documents/Study/iOS/Swift/Swift原理/iOSSwiftTest 函数响应式编程/.build/arm64-apple-macosx/debug/RxCocoa.build/RxTabBarDelegateProxy.swiftdeps"
+  },
+  "/Users/karosli/Documents/Study/iOS/Swift/Swift原理/iOSSwiftTest 函数响应式编程/.build/checkouts/RxSwift/Sources/RxCocoa/RxTableViewDataSourcePrefetchingProxy.swift": {
+    "dependencies": "/Users/karosli/Documents/Study/iOS/Swift/Swift原理/iOSSwiftTest 函数响应式编程/.build/arm64-apple-macosx/debug/RxCocoa.build/RxTableViewDataSourcePrefetchingProxy.d",
+    "object": "/Users/karosli/Documents/Study/iOS/Swift/Swift原理/iOSSwiftTest 函数响应式编程/.build/arm64-apple-macosx/debug/RxCocoa.build/RxTableViewDataSourcePrefetchingProxy.swift.o",
+    "swiftmodule": "/Users/karosli/Documents/Study/iOS/Swift/Swift原理/iOSSwiftTest 函数响应式编程/.build/arm64-apple-macosx/debug/RxCocoa.build/RxTableViewDataSourcePrefetchingProxy~partial.swiftmodule",
+    "swift-dependencies": "/Users/karosli/Documents/Study/iOS/Swift/Swift原理/iOSSwiftTest 函数响应式编程/.build/arm64-apple-macosx/debug/RxCocoa.build/RxTableViewDataSourcePrefetchingProxy.swiftdeps"
+  },
+  "/Users/karosli/Documents/Study/iOS/Swift/Swift原理/iOSSwiftTest 函数响应式编程/.build/checkouts/RxSwift/Sources/RxCocoa/RxTableViewDataSourceProxy.swift": {
+    "dependencies": "/Users/karosli/Documents/Study/iOS/Swift/Swift原理/iOSSwiftTest 函数响应式编程/.build/arm64-apple-macosx/debug/RxCocoa.build/RxTableViewDataSourceProxy.d",
+    "object": "/Users/karosli/Documents/Study/iOS/Swift/Swift原理/iOSSwiftTest 函数响应式编程/.build/arm64-apple-macosx/debug/RxCocoa.build/RxTableViewDataSourceProxy.swift.o",
+    "swiftmodule": "/Users/karosli/Documents/Study/iOS/Swift/Swift原理/iOSSwiftTest 函数响应式编程/.build/arm64-apple-macosx/debug/RxCocoa.build/RxTableViewDataSourceProxy~partial.swiftmodule",
+    "swift-dependencies": "/Users/karosli/Documents/Study/iOS/Swift/Swift原理/iOSSwiftTest 函数响应式编程/.build/arm64-apple-macosx/debug/RxCocoa.build/RxTableViewDataSourceProxy.swiftdeps"
+  },
+  "/Users/karosli/Documents/Study/iOS/Swift/Swift原理/iOSSwiftTest 函数响应式编程/.build/checkouts/RxSwift/Sources/RxCocoa/RxTableViewDataSourceType.swift": {
+    "dependencies": "/Users/karosli/Documents/Study/iOS/Swift/Swift原理/iOSSwiftTest 函数响应式编程/.build/arm64-apple-macosx/debug/RxCocoa.build/RxTableViewDataSourceType.d",
+    "object": "/Users/karosli/Documents/Study/iOS/Swift/Swift原理/iOSSwiftTest 函数响应式编程/.build/arm64-apple-macosx/debug/RxCocoa.build/RxTableViewDataSourceType.swift.o",
+    "swiftmodule": "/Users/karosli/Documents/Study/iOS/Swift/Swift原理/iOSSwiftTest 函数响应式编程/.build/arm64-apple-macosx/debug/RxCocoa.build/RxTableViewDataSourceType~partial.swiftmodule",
+    "swift-dependencies": "/Users/karosli/Documents/Study/iOS/Swift/Swift原理/iOSSwiftTest 函数响应式编程/.build/arm64-apple-macosx/debug/RxCocoa.build/RxTableViewDataSourceType.swiftdeps"
+  },
+  "/Users/karosli/Documents/Study/iOS/Swift/Swift原理/iOSSwiftTest 函数响应式编程/.build/checkouts/RxSwift/Sources/RxCocoa/RxTableViewDelegateProxy.swift": {
+    "dependencies": "/Users/karosli/Documents/Study/iOS/Swift/Swift原理/iOSSwiftTest 函数响应式编程/.build/arm64-apple-macosx/debug/RxCocoa.build/RxTableViewDelegateProxy.d",
+    "object": "/Users/karosli/Documents/Study/iOS/Swift/Swift原理/iOSSwiftTest 函数响应式编程/.build/arm64-apple-macosx/debug/RxCocoa.build/RxTableViewDelegateProxy.swift.o",
+    "swiftmodule": "/Users/karosli/Documents/Study/iOS/Swift/Swift原理/iOSSwiftTest 函数响应式编程/.build/arm64-apple-macosx/debug/RxCocoa.build/RxTableViewDelegateProxy~partial.swiftmodule",
+    "swift-dependencies": "/Users/karosli/Documents/Study/iOS/Swift/Swift原理/iOSSwiftTest 函数响应式编程/.build/arm64-apple-macosx/debug/RxCocoa.build/RxTableViewDelegateProxy.swiftdeps"
+  },
+  "/Users/karosli/Documents/Study/iOS/Swift/Swift原理/iOSSwiftTest 函数响应式编程/.build/checkouts/RxSwift/Sources/RxCocoa/RxTableViewReactiveArrayDataSource.swift": {
+    "dependencies": "/Users/karosli/Documents/Study/iOS/Swift/Swift原理/iOSSwiftTest 函数响应式编程/.build/arm64-apple-macosx/debug/RxCocoa.build/RxTableViewReactiveArrayDataSource.d",
+    "object": "/Users/karosli/Documents/Study/iOS/Swift/Swift原理/iOSSwiftTest 函数响应式编程/.build/arm64-apple-macosx/debug/RxCocoa.build/RxTableViewReactiveArrayDataSource.swift.o",
+    "swiftmodule": "/Users/karosli/Documents/Study/iOS/Swift/Swift原理/iOSSwiftTest 函数响应式编程/.build/arm64-apple-macosx/debug/RxCocoa.build/RxTableViewReactiveArrayDataSource~partial.swiftmodule",
+    "swift-dependencies": "/Users/karosli/Documents/Study/iOS/Swift/Swift原理/iOSSwiftTest 函数响应式编程/.build/arm64-apple-macosx/debug/RxCocoa.build/RxTableViewReactiveArrayDataSource.swiftdeps"
+  },
+  "/Users/karosli/Documents/Study/iOS/Swift/Swift原理/iOSSwiftTest 函数响应式编程/.build/checkouts/RxSwift/Sources/RxCocoa/RxTarget.swift": {
+    "dependencies": "/Users/karosli/Documents/Study/iOS/Swift/Swift原理/iOSSwiftTest 函数响应式编程/.build/arm64-apple-macosx/debug/RxCocoa.build/RxTarget.d",
+    "object": "/Users/karosli/Documents/Study/iOS/Swift/Swift原理/iOSSwiftTest 函数响应式编程/.build/arm64-apple-macosx/debug/RxCocoa.build/RxTarget.swift.o",
+    "swiftmodule": "/Users/karosli/Documents/Study/iOS/Swift/Swift原理/iOSSwiftTest 函数响应式编程/.build/arm64-apple-macosx/debug/RxCocoa.build/RxTarget~partial.swiftmodule",
+    "swift-dependencies": "/Users/karosli/Documents/Study/iOS/Swift/Swift原理/iOSSwiftTest 函数响应式编程/.build/arm64-apple-macosx/debug/RxCocoa.build/RxTarget.swiftdeps"
+  },
+  "/Users/karosli/Documents/Study/iOS/Swift/Swift原理/iOSSwiftTest 函数响应式编程/.build/checkouts/RxSwift/Sources/RxCocoa/RxTextStorageDelegateProxy.swift": {
+    "dependencies": "/Users/karosli/Documents/Study/iOS/Swift/Swift原理/iOSSwiftTest 函数响应式编程/.build/arm64-apple-macosx/debug/RxCocoa.build/RxTextStorageDelegateProxy.d",
+    "object": "/Users/karosli/Documents/Study/iOS/Swift/Swift原理/iOSSwiftTest 函数响应式编程/.build/arm64-apple-macosx/debug/RxCocoa.build/RxTextStorageDelegateProxy.swift.o",
+    "swiftmodule": "/Users/karosli/Documents/Study/iOS/Swift/Swift原理/iOSSwiftTest 函数响应式编程/.build/arm64-apple-macosx/debug/RxCocoa.build/RxTextStorageDelegateProxy~partial.swiftmodule",
+    "swift-dependencies": "/Users/karosli/Documents/Study/iOS/Swift/Swift原理/iOSSwiftTest 函数响应式编程/.build/arm64-apple-macosx/debug/RxCocoa.build/RxTextStorageDelegateProxy.swiftdeps"
+  },
+  "/Users/karosli/Documents/Study/iOS/Swift/Swift原理/iOSSwiftTest 函数响应式编程/.build/checkouts/RxSwift/Sources/RxCocoa/RxTextViewDelegateProxy.swift": {
+    "dependencies": "/Users/karosli/Documents/Study/iOS/Swift/Swift原理/iOSSwiftTest 函数响应式编程/.build/arm64-apple-macosx/debug/RxCocoa.build/RxTextViewDelegateProxy.d",
+    "object": "/Users/karosli/Documents/Study/iOS/Swift/Swift原理/iOSSwiftTest 函数响应式编程/.build/arm64-apple-macosx/debug/RxCocoa.build/RxTextViewDelegateProxy.swift.o",
+    "swiftmodule": "/Users/karosli/Documents/Study/iOS/Swift/Swift原理/iOSSwiftTest 函数响应式编程/.build/arm64-apple-macosx/debug/RxCocoa.build/RxTextViewDelegateProxy~partial.swiftmodule",
+    "swift-dependencies": "/Users/karosli/Documents/Study/iOS/Swift/Swift原理/iOSSwiftTest 函数响应式编程/.build/arm64-apple-macosx/debug/RxCocoa.build/RxTextViewDelegateProxy.swiftdeps"
+  },
+  "/Users/karosli/Documents/Study/iOS/Swift/Swift原理/iOSSwiftTest 函数响应式编程/.build/checkouts/RxSwift/Sources/RxCocoa/RxWKNavigationDelegateProxy.swift": {
+    "dependencies": "/Users/karosli/Documents/Study/iOS/Swift/Swift原理/iOSSwiftTest 函数响应式编程/.build/arm64-apple-macosx/debug/RxCocoa.build/RxWKNavigationDelegateProxy.d",
+    "object": "/Users/karosli/Documents/Study/iOS/Swift/Swift原理/iOSSwiftTest 函数响应式编程/.build/arm64-apple-macosx/debug/RxCocoa.build/RxWKNavigationDelegateProxy.swift.o",
+    "swiftmodule": "/Users/karosli/Documents/Study/iOS/Swift/Swift原理/iOSSwiftTest 函数响应式编程/.build/arm64-apple-macosx/debug/RxCocoa.build/RxWKNavigationDelegateProxy~partial.swiftmodule",
+    "swift-dependencies": "/Users/karosli/Documents/Study/iOS/Swift/Swift原理/iOSSwiftTest 函数响应式编程/.build/arm64-apple-macosx/debug/RxCocoa.build/RxWKNavigationDelegateProxy.swiftdeps"
+  },
+  "/Users/karosli/Documents/Study/iOS/Swift/Swift原理/iOSSwiftTest 函数响应式编程/.build/checkouts/RxSwift/Sources/RxCocoa/SchedulerType+SharedSequence.swift": {
+    "dependencies": "/Users/karosli/Documents/Study/iOS/Swift/Swift原理/iOSSwiftTest 函数响应式编程/.build/arm64-apple-macosx/debug/RxCocoa.build/SchedulerType+SharedSequence.d",
+    "object": "/Users/karosli/Documents/Study/iOS/Swift/Swift原理/iOSSwiftTest 函数响应式编程/.build/arm64-apple-macosx/debug/RxCocoa.build/SchedulerType+SharedSequence.swift.o",
+    "swiftmodule": "/Users/karosli/Documents/Study/iOS/Swift/Swift原理/iOSSwiftTest 函数响应式编程/.build/arm64-apple-macosx/debug/RxCocoa.build/SchedulerType+SharedSequence~partial.swiftmodule",
+    "swift-dependencies": "/Users/karosli/Documents/Study/iOS/Swift/Swift原理/iOSSwiftTest 函数响应式编程/.build/arm64-apple-macosx/debug/RxCocoa.build/SchedulerType+SharedSequence.swiftdeps"
+  },
+  "/Users/karosli/Documents/Study/iOS/Swift/Swift原理/iOSSwiftTest 函数响应式编程/.build/checkouts/RxSwift/Sources/RxCocoa/SectionedViewDataSourceType.swift": {
+    "dependencies": "/Users/karosli/Documents/Study/iOS/Swift/Swift原理/iOSSwiftTest 函数响应式编程/.build/arm64-apple-macosx/debug/RxCocoa.build/SectionedViewDataSourceType.d",
+    "object": "/Users/karosli/Documents/Study/iOS/Swift/Swift原理/iOSSwiftTest 函数响应式编程/.build/arm64-apple-macosx/debug/RxCocoa.build/SectionedViewDataSourceType.swift.o",
+    "swiftmodule": "/Users/karosli/Documents/Study/iOS/Swift/Swift原理/iOSSwiftTest 函数响应式编程/.build/arm64-apple-macosx/debug/RxCocoa.build/SectionedViewDataSourceType~partial.swiftmodule",
+    "swift-dependencies": "/Users/karosli/Documents/Study/iOS/Swift/Swift原理/iOSSwiftTest 函数响应式编程/.build/arm64-apple-macosx/debug/RxCocoa.build/SectionedViewDataSourceType.swiftdeps"
+  },
+  "/Users/karosli/Documents/Study/iOS/Swift/Swift原理/iOSSwiftTest 函数响应式编程/.build/checkouts/RxSwift/Sources/RxCocoa/SharedSequence+Operators+arity.swift": {
+    "dependencies": "/Users/karosli/Documents/Study/iOS/Swift/Swift原理/iOSSwiftTest 函数响应式编程/.build/arm64-apple-macosx/debug/RxCocoa.build/SharedSequence+Operators+arity.d",
+    "object": "/Users/karosli/Documents/Study/iOS/Swift/Swift原理/iOSSwiftTest 函数响应式编程/.build/arm64-apple-macosx/debug/RxCocoa.build/SharedSequence+Operators+arity.swift.o",
+    "swiftmodule": "/Users/karosli/Documents/Study/iOS/Swift/Swift原理/iOSSwiftTest 函数响应式编程/.build/arm64-apple-macosx/debug/RxCocoa.build/SharedSequence+Operators+arity~partial.swiftmodule",
+    "swift-dependencies": "/Users/karosli/Documents/Study/iOS/Swift/Swift原理/iOSSwiftTest 函数响应式编程/.build/arm64-apple-macosx/debug/RxCocoa.build/SharedSequence+Operators+arity.swiftdeps"
+  },
+  "/Users/karosli/Documents/Study/iOS/Swift/Swift原理/iOSSwiftTest 函数响应式编程/.build/checkouts/RxSwift/Sources/RxCocoa/SharedSequence+Operators.swift": {
+    "dependencies": "/Users/karosli/Documents/Study/iOS/Swift/Swift原理/iOSSwiftTest 函数响应式编程/.build/arm64-apple-macosx/debug/RxCocoa.build/SharedSequence+Operators.d",
+    "object": "/Users/karosli/Documents/Study/iOS/Swift/Swift原理/iOSSwiftTest 函数响应式编程/.build/arm64-apple-macosx/debug/RxCocoa.build/SharedSequence+Operators.swift.o",
+    "swiftmodule": "/Users/karosli/Documents/Study/iOS/Swift/Swift原理/iOSSwiftTest 函数响应式编程/.build/arm64-apple-macosx/debug/RxCocoa.build/SharedSequence+Operators~partial.swiftmodule",
+    "swift-dependencies": "/Users/karosli/Documents/Study/iOS/Swift/Swift原理/iOSSwiftTest 函数响应式编程/.build/arm64-apple-macosx/debug/RxCocoa.build/SharedSequence+Operators.swiftdeps"
+  },
+  "/Users/karosli/Documents/Study/iOS/Swift/Swift原理/iOSSwiftTest 函数响应式编程/.build/checkouts/RxSwift/Sources/RxCocoa/SharedSequence.swift": {
+    "dependencies": "/Users/karosli/Documents/Study/iOS/Swift/Swift原理/iOSSwiftTest 函数响应式编程/.build/arm64-apple-macosx/debug/RxCocoa.build/SharedSequence.d",
+    "object": "/Users/karosli/Documents/Study/iOS/Swift/Swift原理/iOSSwiftTest 函数响应式编程/.build/arm64-apple-macosx/debug/RxCocoa.build/SharedSequence.swift.o",
+    "swiftmodule": "/Users/karosli/Documents/Study/iOS/Swift/Swift原理/iOSSwiftTest 函数响应式编程/.build/arm64-apple-macosx/debug/RxCocoa.build/SharedSequence~partial.swiftmodule",
+    "swift-dependencies": "/Users/karosli/Documents/Study/iOS/Swift/Swift原理/iOSSwiftTest 函数响应式编程/.build/arm64-apple-macosx/debug/RxCocoa.build/SharedSequence.swiftdeps"
+  },
+  "/Users/karosli/Documents/Study/iOS/Swift/Swift原理/iOSSwiftTest 函数响应式编程/.build/checkouts/RxSwift/Sources/RxCocoa/Signal+Subscription.swift": {
+    "dependencies": "/Users/karosli/Documents/Study/iOS/Swift/Swift原理/iOSSwiftTest 函数响应式编程/.build/arm64-apple-macosx/debug/RxCocoa.build/Signal+Subscription.d",
+    "object": "/Users/karosli/Documents/Study/iOS/Swift/Swift原理/iOSSwiftTest 函数响应式编程/.build/arm64-apple-macosx/debug/RxCocoa.build/Signal+Subscription.swift.o",
+    "swiftmodule": "/Users/karosli/Documents/Study/iOS/Swift/Swift原理/iOSSwiftTest 函数响应式编程/.build/arm64-apple-macosx/debug/RxCocoa.build/Signal+Subscription~partial.swiftmodule",
+    "swift-dependencies": "/Users/karosli/Documents/Study/iOS/Swift/Swift原理/iOSSwiftTest 函数响应式编程/.build/arm64-apple-macosx/debug/RxCocoa.build/Signal+Subscription.swiftdeps"
+  },
+  "/Users/karosli/Documents/Study/iOS/Swift/Swift原理/iOSSwiftTest 函数响应式编程/.build/checkouts/RxSwift/Sources/RxCocoa/Signal.swift": {
+    "dependencies": "/Users/karosli/Documents/Study/iOS/Swift/Swift原理/iOSSwiftTest 函数响应式编程/.build/arm64-apple-macosx/debug/RxCocoa.build/Signal.d",
+    "object": "/Users/karosli/Documents/Study/iOS/Swift/Swift原理/iOSSwiftTest 函数响应式编程/.build/arm64-apple-macosx/debug/RxCocoa.build/Signal.swift.o",
+    "swiftmodule": "/Users/karosli/Documents/Study/iOS/Swift/Swift原理/iOSSwiftTest 函数响应式编程/.build/arm64-apple-macosx/debug/RxCocoa.build/Signal~partial.swiftmodule",
+    "swift-dependencies": "/Users/karosli/Documents/Study/iOS/Swift/Swift原理/iOSSwiftTest 函数响应式编程/.build/arm64-apple-macosx/debug/RxCocoa.build/Signal.swiftdeps"
+  },
+  "/Users/karosli/Documents/Study/iOS/Swift/Swift原理/iOSSwiftTest 函数响应式编程/.build/checkouts/RxSwift/Sources/RxCocoa/TextInput.swift": {
+    "dependencies": "/Users/karosli/Documents/Study/iOS/Swift/Swift原理/iOSSwiftTest 函数响应式编程/.build/arm64-apple-macosx/debug/RxCocoa.build/TextInput.d",
+    "object": "/Users/karosli/Documents/Study/iOS/Swift/Swift原理/iOSSwiftTest 函数响应式编程/.build/arm64-apple-macosx/debug/RxCocoa.build/TextInput.swift.o",
+    "swiftmodule": "/Users/karosli/Documents/Study/iOS/Swift/Swift原理/iOSSwiftTest 函数响应式编程/.build/arm64-apple-macosx/debug/RxCocoa.build/TextInput~partial.swiftmodule",
+    "swift-dependencies": "/Users/karosli/Documents/Study/iOS/Swift/Swift原理/iOSSwiftTest 函数响应式编程/.build/arm64-apple-macosx/debug/RxCocoa.build/TextInput.swiftdeps"
+  },
+  "/Users/karosli/Documents/Study/iOS/Swift/Swift原理/iOSSwiftTest 函数响应式编程/.build/checkouts/RxSwift/Sources/RxCocoa/UIActivityIndicatorView+Rx.swift": {
+    "dependencies": "/Users/karosli/Documents/Study/iOS/Swift/Swift原理/iOSSwiftTest 函数响应式编程/.build/arm64-apple-macosx/debug/RxCocoa.build/UIActivityIndicatorView+Rx.d",
+    "object": "/Users/karosli/Documents/Study/iOS/Swift/Swift原理/iOSSwiftTest 函数响应式编程/.build/arm64-apple-macosx/debug/RxCocoa.build/UIActivityIndicatorView+Rx.swift.o",
+    "swiftmodule": "/Users/karosli/Documents/Study/iOS/Swift/Swift原理/iOSSwiftTest 函数响应式编程/.build/arm64-apple-macosx/debug/RxCocoa.build/UIActivityIndicatorView+Rx~partial.swiftmodule",
+    "swift-dependencies": "/Users/karosli/Documents/Study/iOS/Swift/Swift原理/iOSSwiftTest 函数响应式编程/.build/arm64-apple-macosx/debug/RxCocoa.build/UIActivityIndicatorView+Rx.swiftdeps"
+  },
+  "/Users/karosli/Documents/Study/iOS/Swift/Swift原理/iOSSwiftTest 函数响应式编程/.build/checkouts/RxSwift/Sources/RxCocoa/UIApplication+Rx.swift": {
+    "dependencies": "/Users/karosli/Documents/Study/iOS/Swift/Swift原理/iOSSwiftTest 函数响应式编程/.build/arm64-apple-macosx/debug/RxCocoa.build/UIApplication+Rx.d",
+    "object": "/Users/karosli/Documents/Study/iOS/Swift/Swift原理/iOSSwiftTest 函数响应式编程/.build/arm64-apple-macosx/debug/RxCocoa.build/UIApplication+Rx.swift.o",
+    "swiftmodule": "/Users/karosli/Documents/Study/iOS/Swift/Swift原理/iOSSwiftTest 函数响应式编程/.build/arm64-apple-macosx/debug/RxCocoa.build/UIApplication+Rx~partial.swiftmodule",
+    "swift-dependencies": "/Users/karosli/Documents/Study/iOS/Swift/Swift原理/iOSSwiftTest 函数响应式编程/.build/arm64-apple-macosx/debug/RxCocoa.build/UIApplication+Rx.swiftdeps"
+  },
+  "/Users/karosli/Documents/Study/iOS/Swift/Swift原理/iOSSwiftTest 函数响应式编程/.build/checkouts/RxSwift/Sources/RxCocoa/UIBarButtonItem+Rx.swift": {
+    "dependencies": "/Users/karosli/Documents/Study/iOS/Swift/Swift原理/iOSSwiftTest 函数响应式编程/.build/arm64-apple-macosx/debug/RxCocoa.build/UIBarButtonItem+Rx.d",
+    "object": "/Users/karosli/Documents/Study/iOS/Swift/Swift原理/iOSSwiftTest 函数响应式编程/.build/arm64-apple-macosx/debug/RxCocoa.build/UIBarButtonItem+Rx.swift.o",
+    "swiftmodule": "/Users/karosli/Documents/Study/iOS/Swift/Swift原理/iOSSwiftTest 函数响应式编程/.build/arm64-apple-macosx/debug/RxCocoa.build/UIBarButtonItem+Rx~partial.swiftmodule",
+    "swift-dependencies": "/Users/karosli/Documents/Study/iOS/Swift/Swift原理/iOSSwiftTest 函数响应式编程/.build/arm64-apple-macosx/debug/RxCocoa.build/UIBarButtonItem+Rx.swiftdeps"
+  },
+  "/Users/karosli/Documents/Study/iOS/Swift/Swift原理/iOSSwiftTest 函数响应式编程/.build/checkouts/RxSwift/Sources/RxCocoa/UIButton+Rx.swift": {
+    "dependencies": "/Users/karosli/Documents/Study/iOS/Swift/Swift原理/iOSSwiftTest 函数响应式编程/.build/arm64-apple-macosx/debug/RxCocoa.build/UIButton+Rx.d",
+    "object": "/Users/karosli/Documents/Study/iOS/Swift/Swift原理/iOSSwiftTest 函数响应式编程/.build/arm64-apple-macosx/debug/RxCocoa.build/UIButton+Rx.swift.o",
+    "swiftmodule": "/Users/karosli/Documents/Study/iOS/Swift/Swift原理/iOSSwiftTest 函数响应式编程/.build/arm64-apple-macosx/debug/RxCocoa.build/UIButton+Rx~partial.swiftmodule",
+    "swift-dependencies": "/Users/karosli/Documents/Study/iOS/Swift/Swift原理/iOSSwiftTest 函数响应式编程/.build/arm64-apple-macosx/debug/RxCocoa.build/UIButton+Rx.swiftdeps"
+  },
+  "/Users/karosli/Documents/Study/iOS/Swift/Swift原理/iOSSwiftTest 函数响应式编程/.build/checkouts/RxSwift/Sources/RxCocoa/UICollectionView+Rx.swift": {
+    "dependencies": "/Users/karosli/Documents/Study/iOS/Swift/Swift原理/iOSSwiftTest 函数响应式编程/.build/arm64-apple-macosx/debug/RxCocoa.build/UICollectionView+Rx.d",
+    "object": "/Users/karosli/Documents/Study/iOS/Swift/Swift原理/iOSSwiftTest 函数响应式编程/.build/arm64-apple-macosx/debug/RxCocoa.build/UICollectionView+Rx.swift.o",
+    "swiftmodule": "/Users/karosli/Documents/Study/iOS/Swift/Swift原理/iOSSwiftTest 函数响应式编程/.build/arm64-apple-macosx/debug/RxCocoa.build/UICollectionView+Rx~partial.swiftmodule",
+    "swift-dependencies": "/Users/karosli/Documents/Study/iOS/Swift/Swift原理/iOSSwiftTest 函数响应式编程/.build/arm64-apple-macosx/debug/RxCocoa.build/UICollectionView+Rx.swiftdeps"
+  },
+  "/Users/karosli/Documents/Study/iOS/Swift/Swift原理/iOSSwiftTest 函数响应式编程/.build/checkouts/RxSwift/Sources/RxCocoa/UIControl+Rx.swift": {
+    "dependencies": "/Users/karosli/Documents/Study/iOS/Swift/Swift原理/iOSSwiftTest 函数响应式编程/.build/arm64-apple-macosx/debug/RxCocoa.build/UIControl+Rx.d",
+    "object": "/Users/karosli/Documents/Study/iOS/Swift/Swift原理/iOSSwiftTest 函数响应式编程/.build/arm64-apple-macosx/debug/RxCocoa.build/UIControl+Rx.swift.o",
+    "swiftmodule": "/Users/karosli/Documents/Study/iOS/Swift/Swift原理/iOSSwiftTest 函数响应式编程/.build/arm64-apple-macosx/debug/RxCocoa.build/UIControl+Rx~partial.swiftmodule",
+    "swift-dependencies": "/Users/karosli/Documents/Study/iOS/Swift/Swift原理/iOSSwiftTest 函数响应式编程/.build/arm64-apple-macosx/debug/RxCocoa.build/UIControl+Rx.swiftdeps"
+  },
+  "/Users/karosli/Documents/Study/iOS/Swift/Swift原理/iOSSwiftTest 函数响应式编程/.build/checkouts/RxSwift/Sources/RxCocoa/UIDatePicker+Rx.swift": {
+    "dependencies": "/Users/karosli/Documents/Study/iOS/Swift/Swift原理/iOSSwiftTest 函数响应式编程/.build/arm64-apple-macosx/debug/RxCocoa.build/UIDatePicker+Rx.d",
+    "object": "/Users/karosli/Documents/Study/iOS/Swift/Swift原理/iOSSwiftTest 函数响应式编程/.build/arm64-apple-macosx/debug/RxCocoa.build/UIDatePicker+Rx.swift.o",
+    "swiftmodule": "/Users/karosli/Documents/Study/iOS/Swift/Swift原理/iOSSwiftTest 函数响应式编程/.build/arm64-apple-macosx/debug/RxCocoa.build/UIDatePicker+Rx~partial.swiftmodule",
+    "swift-dependencies": "/Users/karosli/Documents/Study/iOS/Swift/Swift原理/iOSSwiftTest 函数响应式编程/.build/arm64-apple-macosx/debug/RxCocoa.build/UIDatePicker+Rx.swiftdeps"
+  },
+  "/Users/karosli/Documents/Study/iOS/Swift/Swift原理/iOSSwiftTest 函数响应式编程/.build/checkouts/RxSwift/Sources/RxCocoa/UIGestureRecognizer+Rx.swift": {
+    "dependencies": "/Users/karosli/Documents/Study/iOS/Swift/Swift原理/iOSSwiftTest 函数响应式编程/.build/arm64-apple-macosx/debug/RxCocoa.build/UIGestureRecognizer+Rx.d",
+    "object": "/Users/karosli/Documents/Study/iOS/Swift/Swift原理/iOSSwiftTest 函数响应式编程/.build/arm64-apple-macosx/debug/RxCocoa.build/UIGestureRecognizer+Rx.swift.o",
+    "swiftmodule": "/Users/karosli/Documents/Study/iOS/Swift/Swift原理/iOSSwiftTest 函数响应式编程/.build/arm64-apple-macosx/debug/RxCocoa.build/UIGestureRecognizer+Rx~partial.swiftmodule",
+    "swift-dependencies": "/Users/karosli/Documents/Study/iOS/Swift/Swift原理/iOSSwiftTest 函数响应式编程/.build/arm64-apple-macosx/debug/RxCocoa.build/UIGestureRecognizer+Rx.swiftdeps"
+  },
+  "/Users/karosli/Documents/Study/iOS/Swift/Swift原理/iOSSwiftTest 函数响应式编程/.build/checkouts/RxSwift/Sources/RxCocoa/UINavigationController+Rx.swift": {
+    "dependencies": "/Users/karosli/Documents/Study/iOS/Swift/Swift原理/iOSSwiftTest 函数响应式编程/.build/arm64-apple-macosx/debug/RxCocoa.build/UINavigationController+Rx.d",
+    "object": "/Users/karosli/Documents/Study/iOS/Swift/Swift原理/iOSSwiftTest 函数响应式编程/.build/arm64-apple-macosx/debug/RxCocoa.build/UINavigationController+Rx.swift.o",
+    "swiftmodule": "/Users/karosli/Documents/Study/iOS/Swift/Swift原理/iOSSwiftTest 函数响应式编程/.build/arm64-apple-macosx/debug/RxCocoa.build/UINavigationController+Rx~partial.swiftmodule",
+    "swift-dependencies": "/Users/karosli/Documents/Study/iOS/Swift/Swift原理/iOSSwiftTest 函数响应式编程/.build/arm64-apple-macosx/debug/RxCocoa.build/UINavigationController+Rx.swiftdeps"
+  },
+  "/Users/karosli/Documents/Study/iOS/Swift/Swift原理/iOSSwiftTest 函数响应式编程/.build/checkouts/RxSwift/Sources/RxCocoa/UIPickerView+Rx.swift": {
+    "dependencies": "/Users/karosli/Documents/Study/iOS/Swift/Swift原理/iOSSwiftTest 函数响应式编程/.build/arm64-apple-macosx/debug/RxCocoa.build/UIPickerView+Rx.d",
+    "object": "/Users/karosli/Documents/Study/iOS/Swift/Swift原理/iOSSwiftTest 函数响应式编程/.build/arm64-apple-macosx/debug/RxCocoa.build/UIPickerView+Rx.swift.o",
+    "swiftmodule": "/Users/karosli/Documents/Study/iOS/Swift/Swift原理/iOSSwiftTest 函数响应式编程/.build/arm64-apple-macosx/debug/RxCocoa.build/UIPickerView+Rx~partial.swiftmodule",
+    "swift-dependencies": "/Users/karosli/Documents/Study/iOS/Swift/Swift原理/iOSSwiftTest 函数响应式编程/.build/arm64-apple-macosx/debug/RxCocoa.build/UIPickerView+Rx.swiftdeps"
+  },
+  "/Users/karosli/Documents/Study/iOS/Swift/Swift原理/iOSSwiftTest 函数响应式编程/.build/checkouts/RxSwift/Sources/RxCocoa/UIRefreshControl+Rx.swift": {
+    "dependencies": "/Users/karosli/Documents/Study/iOS/Swift/Swift原理/iOSSwiftTest 函数响应式编程/.build/arm64-apple-macosx/debug/RxCocoa.build/UIRefreshControl+Rx.d",
+    "object": "/Users/karosli/Documents/Study/iOS/Swift/Swift原理/iOSSwiftTest 函数响应式编程/.build/arm64-apple-macosx/debug/RxCocoa.build/UIRefreshControl+Rx.swift.o",
+    "swiftmodule": "/Users/karosli/Documents/Study/iOS/Swift/Swift原理/iOSSwiftTest 函数响应式编程/.build/arm64-apple-macosx/debug/RxCocoa.build/UIRefreshControl+Rx~partial.swiftmodule",
+    "swift-dependencies": "/Users/karosli/Documents/Study/iOS/Swift/Swift原理/iOSSwiftTest 函数响应式编程/.build/arm64-apple-macosx/debug/RxCocoa.build/UIRefreshControl+Rx.swiftdeps"
+  },
+  "/Users/karosli/Documents/Study/iOS/Swift/Swift原理/iOSSwiftTest 函数响应式编程/.build/checkouts/RxSwift/Sources/RxCocoa/UIScrollView+Rx.swift": {
+    "dependencies": "/Users/karosli/Documents/Study/iOS/Swift/Swift原理/iOSSwiftTest 函数响应式编程/.build/arm64-apple-macosx/debug/RxCocoa.build/UIScrollView+Rx.d",
+    "object": "/Users/karosli/Documents/Study/iOS/Swift/Swift原理/iOSSwiftTest 函数响应式编程/.build/arm64-apple-macosx/debug/RxCocoa.build/UIScrollView+Rx.swift.o",
+    "swiftmodule": "/Users/karosli/Documents/Study/iOS/Swift/Swift原理/iOSSwiftTest 函数响应式编程/.build/arm64-apple-macosx/debug/RxCocoa.build/UIScrollView+Rx~partial.swiftmodule",
+    "swift-dependencies": "/Users/karosli/Documents/Study/iOS/Swift/Swift原理/iOSSwiftTest 函数响应式编程/.build/arm64-apple-macosx/debug/RxCocoa.build/UIScrollView+Rx.swiftdeps"
+  },
+  "/Users/karosli/Documents/Study/iOS/Swift/Swift原理/iOSSwiftTest 函数响应式编程/.build/checkouts/RxSwift/Sources/RxCocoa/UISearchBar+Rx.swift": {
+    "dependencies": "/Users/karosli/Documents/Study/iOS/Swift/Swift原理/iOSSwiftTest 函数响应式编程/.build/arm64-apple-macosx/debug/RxCocoa.build/UISearchBar+Rx.d",
+    "object": "/Users/karosli/Documents/Study/iOS/Swift/Swift原理/iOSSwiftTest 函数响应式编程/.build/arm64-apple-macosx/debug/RxCocoa.build/UISearchBar+Rx.swift.o",
+    "swiftmodule": "/Users/karosli/Documents/Study/iOS/Swift/Swift原理/iOSSwiftTest 函数响应式编程/.build/arm64-apple-macosx/debug/RxCocoa.build/UISearchBar+Rx~partial.swiftmodule",
+    "swift-dependencies": "/Users/karosli/Documents/Study/iOS/Swift/Swift原理/iOSSwiftTest 函数响应式编程/.build/arm64-apple-macosx/debug/RxCocoa.build/UISearchBar+Rx.swiftdeps"
+  },
+  "/Users/karosli/Documents/Study/iOS/Swift/Swift原理/iOSSwiftTest 函数响应式编程/.build/checkouts/RxSwift/Sources/RxCocoa/UISearchController+Rx.swift": {
+    "dependencies": "/Users/karosli/Documents/Study/iOS/Swift/Swift原理/iOSSwiftTest 函数响应式编程/.build/arm64-apple-macosx/debug/RxCocoa.build/UISearchController+Rx.d",
+    "object": "/Users/karosli/Documents/Study/iOS/Swift/Swift原理/iOSSwiftTest 函数响应式编程/.build/arm64-apple-macosx/debug/RxCocoa.build/UISearchController+Rx.swift.o",
+    "swiftmodule": "/Users/karosli/Documents/Study/iOS/Swift/Swift原理/iOSSwiftTest 函数响应式编程/.build/arm64-apple-macosx/debug/RxCocoa.build/UISearchController+Rx~partial.swiftmodule",
+    "swift-dependencies": "/Users/karosli/Documents/Study/iOS/Swift/Swift原理/iOSSwiftTest 函数响应式编程/.build/arm64-apple-macosx/debug/RxCocoa.build/UISearchController+Rx.swiftdeps"
+  },
+  "/Users/karosli/Documents/Study/iOS/Swift/Swift原理/iOSSwiftTest 函数响应式编程/.build/checkouts/RxSwift/Sources/RxCocoa/UISegmentedControl+Rx.swift": {
+    "dependencies": "/Users/karosli/Documents/Study/iOS/Swift/Swift原理/iOSSwiftTest 函数响应式编程/.build/arm64-apple-macosx/debug/RxCocoa.build/UISegmentedControl+Rx.d",
+    "object": "/Users/karosli/Documents/Study/iOS/Swift/Swift原理/iOSSwiftTest 函数响应式编程/.build/arm64-apple-macosx/debug/RxCocoa.build/UISegmentedControl+Rx.swift.o",
+    "swiftmodule": "/Users/karosli/Documents/Study/iOS/Swift/Swift原理/iOSSwiftTest 函数响应式编程/.build/arm64-apple-macosx/debug/RxCocoa.build/UISegmentedControl+Rx~partial.swiftmodule",
+    "swift-dependencies": "/Users/karosli/Documents/Study/iOS/Swift/Swift原理/iOSSwiftTest 函数响应式编程/.build/arm64-apple-macosx/debug/RxCocoa.build/UISegmentedControl+Rx.swiftdeps"
+  },
+  "/Users/karosli/Documents/Study/iOS/Swift/Swift原理/iOSSwiftTest 函数响应式编程/.build/checkouts/RxSwift/Sources/RxCocoa/UISlider+Rx.swift": {
+    "dependencies": "/Users/karosli/Documents/Study/iOS/Swift/Swift原理/iOSSwiftTest 函数响应式编程/.build/arm64-apple-macosx/debug/RxCocoa.build/UISlider+Rx.d",
+    "object": "/Users/karosli/Documents/Study/iOS/Swift/Swift原理/iOSSwiftTest 函数响应式编程/.build/arm64-apple-macosx/debug/RxCocoa.build/UISlider+Rx.swift.o",
+    "swiftmodule": "/Users/karosli/Documents/Study/iOS/Swift/Swift原理/iOSSwiftTest 函数响应式编程/.build/arm64-apple-macosx/debug/RxCocoa.build/UISlider+Rx~partial.swiftmodule",
+    "swift-dependencies": "/Users/karosli/Documents/Study/iOS/Swift/Swift原理/iOSSwiftTest 函数响应式编程/.build/arm64-apple-macosx/debug/RxCocoa.build/UISlider+Rx.swiftdeps"
+  },
+  "/Users/karosli/Documents/Study/iOS/Swift/Swift原理/iOSSwiftTest 函数响应式编程/.build/checkouts/RxSwift/Sources/RxCocoa/UIStepper+Rx.swift": {
+    "dependencies": "/Users/karosli/Documents/Study/iOS/Swift/Swift原理/iOSSwiftTest 函数响应式编程/.build/arm64-apple-macosx/debug/RxCocoa.build/UIStepper+Rx.d",
+    "object": "/Users/karosli/Documents/Study/iOS/Swift/Swift原理/iOSSwiftTest 函数响应式编程/.build/arm64-apple-macosx/debug/RxCocoa.build/UIStepper+Rx.swift.o",
+    "swiftmodule": "/Users/karosli/Documents/Study/iOS/Swift/Swift原理/iOSSwiftTest 函数响应式编程/.build/arm64-apple-macosx/debug/RxCocoa.build/UIStepper+Rx~partial.swiftmodule",
+    "swift-dependencies": "/Users/karosli/Documents/Study/iOS/Swift/Swift原理/iOSSwiftTest 函数响应式编程/.build/arm64-apple-macosx/debug/RxCocoa.build/UIStepper+Rx.swiftdeps"
+  },
+  "/Users/karosli/Documents/Study/iOS/Swift/Swift原理/iOSSwiftTest 函数响应式编程/.build/checkouts/RxSwift/Sources/RxCocoa/UISwitch+Rx.swift": {
+    "dependencies": "/Users/karosli/Documents/Study/iOS/Swift/Swift原理/iOSSwiftTest 函数响应式编程/.build/arm64-apple-macosx/debug/RxCocoa.build/UISwitch+Rx.d",
+    "object": "/Users/karosli/Documents/Study/iOS/Swift/Swift原理/iOSSwiftTest 函数响应式编程/.build/arm64-apple-macosx/debug/RxCocoa.build/UISwitch+Rx.swift.o",
+    "swiftmodule": "/Users/karosli/Documents/Study/iOS/Swift/Swift原理/iOSSwiftTest 函数响应式编程/.build/arm64-apple-macosx/debug/RxCocoa.build/UISwitch+Rx~partial.swiftmodule",
+    "swift-dependencies": "/Users/karosli/Documents/Study/iOS/Swift/Swift原理/iOSSwiftTest 函数响应式编程/.build/arm64-apple-macosx/debug/RxCocoa.build/UISwitch+Rx.swiftdeps"
+  },
+  "/Users/karosli/Documents/Study/iOS/Swift/Swift原理/iOSSwiftTest 函数响应式编程/.build/checkouts/RxSwift/Sources/RxCocoa/UITabBar+Rx.swift": {
+    "dependencies": "/Users/karosli/Documents/Study/iOS/Swift/Swift原理/iOSSwiftTest 函数响应式编程/.build/arm64-apple-macosx/debug/RxCocoa.build/UITabBar+Rx.d",
+    "object": "/Users/karosli/Documents/Study/iOS/Swift/Swift原理/iOSSwiftTest 函数响应式编程/.build/arm64-apple-macosx/debug/RxCocoa.build/UITabBar+Rx.swift.o",
+    "swiftmodule": "/Users/karosli/Documents/Study/iOS/Swift/Swift原理/iOSSwiftTest 函数响应式编程/.build/arm64-apple-macosx/debug/RxCocoa.build/UITabBar+Rx~partial.swiftmodule",
+    "swift-dependencies": "/Users/karosli/Documents/Study/iOS/Swift/Swift原理/iOSSwiftTest 函数响应式编程/.build/arm64-apple-macosx/debug/RxCocoa.build/UITabBar+Rx.swiftdeps"
+  },
+  "/Users/karosli/Documents/Study/iOS/Swift/Swift原理/iOSSwiftTest 函数响应式编程/.build/checkouts/RxSwift/Sources/RxCocoa/UITabBarController+Rx.swift": {
+    "dependencies": "/Users/karosli/Documents/Study/iOS/Swift/Swift原理/iOSSwiftTest 函数响应式编程/.build/arm64-apple-macosx/debug/RxCocoa.build/UITabBarController+Rx.d",
+    "object": "/Users/karosli/Documents/Study/iOS/Swift/Swift原理/iOSSwiftTest 函数响应式编程/.build/arm64-apple-macosx/debug/RxCocoa.build/UITabBarController+Rx.swift.o",
+    "swiftmodule": "/Users/karosli/Documents/Study/iOS/Swift/Swift原理/iOSSwiftTest 函数响应式编程/.build/arm64-apple-macosx/debug/RxCocoa.build/UITabBarController+Rx~partial.swiftmodule",
+    "swift-dependencies": "/Users/karosli/Documents/Study/iOS/Swift/Swift原理/iOSSwiftTest 函数响应式编程/.build/arm64-apple-macosx/debug/RxCocoa.build/UITabBarController+Rx.swiftdeps"
+  },
+  "/Users/karosli/Documents/Study/iOS/Swift/Swift原理/iOSSwiftTest 函数响应式编程/.build/checkouts/RxSwift/Sources/RxCocoa/UITableView+Rx.swift": {
+    "dependencies": "/Users/karosli/Documents/Study/iOS/Swift/Swift原理/iOSSwiftTest 函数响应式编程/.build/arm64-apple-macosx/debug/RxCocoa.build/UITableView+Rx.d",
+    "object": "/Users/karosli/Documents/Study/iOS/Swift/Swift原理/iOSSwiftTest 函数响应式编程/.build/arm64-apple-macosx/debug/RxCocoa.build/UITableView+Rx.swift.o",
+    "swiftmodule": "/Users/karosli/Documents/Study/iOS/Swift/Swift原理/iOSSwiftTest 函数响应式编程/.build/arm64-apple-macosx/debug/RxCocoa.build/UITableView+Rx~partial.swiftmodule",
+    "swift-dependencies": "/Users/karosli/Documents/Study/iOS/Swift/Swift原理/iOSSwiftTest 函数响应式编程/.build/arm64-apple-macosx/debug/RxCocoa.build/UITableView+Rx.swiftdeps"
+  },
+  "/Users/karosli/Documents/Study/iOS/Swift/Swift原理/iOSSwiftTest 函数响应式编程/.build/checkouts/RxSwift/Sources/RxCocoa/UITextField+Rx.swift": {
+    "dependencies": "/Users/karosli/Documents/Study/iOS/Swift/Swift原理/iOSSwiftTest 函数响应式编程/.build/arm64-apple-macosx/debug/RxCocoa.build/UITextField+Rx.d",
+    "object": "/Users/karosli/Documents/Study/iOS/Swift/Swift原理/iOSSwiftTest 函数响应式编程/.build/arm64-apple-macosx/debug/RxCocoa.build/UITextField+Rx.swift.o",
+    "swiftmodule": "/Users/karosli/Documents/Study/iOS/Swift/Swift原理/iOSSwiftTest 函数响应式编程/.build/arm64-apple-macosx/debug/RxCocoa.build/UITextField+Rx~partial.swiftmodule",
+    "swift-dependencies": "/Users/karosli/Documents/Study/iOS/Swift/Swift原理/iOSSwiftTest 函数响应式编程/.build/arm64-apple-macosx/debug/RxCocoa.build/UITextField+Rx.swiftdeps"
+  },
+  "/Users/karosli/Documents/Study/iOS/Swift/Swift原理/iOSSwiftTest 函数响应式编程/.build/checkouts/RxSwift/Sources/RxCocoa/UITextView+Rx.swift": {
+    "dependencies": "/Users/karosli/Documents/Study/iOS/Swift/Swift原理/iOSSwiftTest 函数响应式编程/.build/arm64-apple-macosx/debug/RxCocoa.build/UITextView+Rx.d",
+    "object": "/Users/karosli/Documents/Study/iOS/Swift/Swift原理/iOSSwiftTest 函数响应式编程/.build/arm64-apple-macosx/debug/RxCocoa.build/UITextView+Rx.swift.o",
+    "swiftmodule": "/Users/karosli/Documents/Study/iOS/Swift/Swift原理/iOSSwiftTest 函数响应式编程/.build/arm64-apple-macosx/debug/RxCocoa.build/UITextView+Rx~partial.swiftmodule",
+    "swift-dependencies": "/Users/karosli/Documents/Study/iOS/Swift/Swift原理/iOSSwiftTest 函数响应式编程/.build/arm64-apple-macosx/debug/RxCocoa.build/UITextView+Rx.swiftdeps"
+  },
+  "/Users/karosli/Documents/Study/iOS/Swift/Swift原理/iOSSwiftTest 函数响应式编程/.build/checkouts/RxSwift/Sources/RxCocoa/URLSession+Rx.swift": {
+    "dependencies": "/Users/karosli/Documents/Study/iOS/Swift/Swift原理/iOSSwiftTest 函数响应式编程/.build/arm64-apple-macosx/debug/RxCocoa.build/URLSession+Rx.d",
+    "object": "/Users/karosli/Documents/Study/iOS/Swift/Swift原理/iOSSwiftTest 函数响应式编程/.build/arm64-apple-macosx/debug/RxCocoa.build/URLSession+Rx.swift.o",
+    "swiftmodule": "/Users/karosli/Documents/Study/iOS/Swift/Swift原理/iOSSwiftTest 函数响应式编程/.build/arm64-apple-macosx/debug/RxCocoa.build/URLSession+Rx~partial.swiftmodule",
+    "swift-dependencies": "/Users/karosli/Documents/Study/iOS/Swift/Swift原理/iOSSwiftTest 函数响应式编程/.build/arm64-apple-macosx/debug/RxCocoa.build/URLSession+Rx.swiftdeps"
+  },
+  "/Users/karosli/Documents/Study/iOS/Swift/Swift原理/iOSSwiftTest 函数响应式编程/.build/checkouts/RxSwift/Sources/RxCocoa/WKWebView+Rx.swift": {
+    "dependencies": "/Users/karosli/Documents/Study/iOS/Swift/Swift原理/iOSSwiftTest 函数响应式编程/.build/arm64-apple-macosx/debug/RxCocoa.build/WKWebView+Rx.d",
+    "object": "/Users/karosli/Documents/Study/iOS/Swift/Swift原理/iOSSwiftTest 函数响应式编程/.build/arm64-apple-macosx/debug/RxCocoa.build/WKWebView+Rx.swift.o",
+    "swiftmodule": "/Users/karosli/Documents/Study/iOS/Swift/Swift原理/iOSSwiftTest 函数响应式编程/.build/arm64-apple-macosx/debug/RxCocoa.build/WKWebView+Rx~partial.swiftmodule",
+    "swift-dependencies": "/Users/karosli/Documents/Study/iOS/Swift/Swift原理/iOSSwiftTest 函数响应式编程/.build/arm64-apple-macosx/debug/RxCocoa.build/WKWebView+Rx.swiftdeps"
+  }
+}

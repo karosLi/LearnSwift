@@ -1,0 +1,17 @@
+source 'https://github.com/CocoaPods/Specs.git'
+
+platform :ios, '10.0'
+
+
+install! 'cocoapods',
+:deterministic_uuids => false,
+generate_multiple_pod_projects: true
+
+target 'iOSSwiftTest' do
+  # Comment the next line if you don't want to use dynamic frameworks
+  use_frameworks!
+
+  pod 'RxSwift', '6.2.0'
+  pod 'RxCocoa', '6.2.0'
+
+end

@@ -1,0 +1,41 @@
+{
+  "": {
+    "swift-dependencies": "/Users/karosli/Documents/Study/iOS/Swift/Swift原理/iOSSwiftTest 函数响应式编程/.build/arm64-apple-macosx/debug/iOSSwiftTest.build/master.swiftdeps"
+  },
+  "/Users/karosli/Documents/Study/iOS/Swift/Swift原理/iOSSwiftTest 函数响应式编程/iOSSwiftTest/AppDelegate.swift": {
+    "dependencies": "/Users/karosli/Documents/Study/iOS/Swift/Swift原理/iOSSwiftTest 函数响应式编程/.build/arm64-apple-macosx/debug/iOSSwiftTest.build/AppDelegate.d",
+    "object": "/Users/karosli/Documents/Study/iOS/Swift/Swift原理/iOSSwiftTest 函数响应式编程/.build/arm64-apple-macosx/debug/iOSSwiftTest.build/AppDelegate.swift.o",
+    "swiftmodule": "/Users/karosli/Documents/Study/iOS/Swift/Swift原理/iOSSwiftTest 函数响应式编程/.build/arm64-apple-macosx/debug/iOSSwiftTest.build/AppDelegate~partial.swiftmodule",
+    "swift-dependencies": "/Users/karosli/Documents/Study/iOS/Swift/Swift原理/iOSSwiftTest 函数响应式编程/.build/arm64-apple-macosx/debug/iOSSwiftTest.build/AppDelegate.swiftdeps"
+  },
+  "/Users/karosli/Documents/Study/iOS/Swift/Swift原理/iOSSwiftTest 函数响应式编程/iOSSwiftTest/SceneDelegate.swift": {
+    "dependencies": "/Users/karosli/Documents/Study/iOS/Swift/Swift原理/iOSSwiftTest 函数响应式编程/.build/arm64-apple-macosx/debug/iOSSwiftTest.build/SceneDelegate.d",
+    "object": "/Users/karosli/Documents/Study/iOS/Swift/Swift原理/iOSSwiftTest 函数响应式编程/.build/arm64-apple-macosx/debug/iOSSwiftTest.build/SceneDelegate.swift.o",
+    "swiftmodule": "/Users/karosli/Documents/Study/iOS/Swift/Swift原理/iOSSwiftTest 函数响应式编程/.build/arm64-apple-macosx/debug/iOSSwiftTest.build/SceneDelegate~partial.swiftmodule",
+    "swift-dependencies": "/Users/karosli/Documents/Study/iOS/Swift/Swift原理/iOSSwiftTest 函数响应式编程/.build/arm64-apple-macosx/debug/iOSSwiftTest.build/SceneDelegate.swiftdeps"
+  },
+  "/Users/karosli/Documents/Study/iOS/Swift/Swift原理/iOSSwiftTest 函数响应式编程/iOSSwiftTest/Tools/Asyncs.swift": {
+    "dependencies": "/Users/karosli/Documents/Study/iOS/Swift/Swift原理/iOSSwiftTest 函数响应式编程/.build/arm64-apple-macosx/debug/iOSSwiftTest.build/Tools/Asyncs.d",
+    "object": "/Users/karosli/Documents/Study/iOS/Swift/Swift原理/iOSSwiftTest 函数响应式编程/.build/arm64-apple-macosx/debug/iOSSwiftTest.build/Tools/Asyncs.swift.o",
+    "swiftmodule": "/Users/karosli/Documents/Study/iOS/Swift/Swift原理/iOSSwiftTest 函数响应式编程/.build/arm64-apple-macosx/debug/iOSSwiftTest.build/Tools/Asyncs~partial.swiftmodule",
+    "swift-dependencies": "/Users/karosli/Documents/Study/iOS/Swift/Swift原理/iOSSwiftTest 函数响应式编程/.build/arm64-apple-macosx/debug/iOSSwiftTest.build/Tools/Asyncs.swiftdeps"
+  },
+  "/Users/karosli/Documents/Study/iOS/Swift/Swift原理/iOSSwiftTest 函数响应式编程/iOSSwiftTest/Tools/Cache.swift": {
+    "dependencies": "/Users/karosli/Documents/Study/iOS/Swift/Swift原理/iOSSwiftTest 函数响应式编程/.build/arm64-apple-macosx/debug/iOSSwiftTest.build/Tools/Cache.d",
+    "object": "/Users/karosli/Documents/Study/iOS/Swift/Swift原理/iOSSwiftTest 函数响应式编程/.build/arm64-apple-macosx/debug/iOSSwiftTest.build/Tools/Cache.swift.o",
+    "swiftmodule": "/Users/karosli/Documents/Study/iOS/Swift/Swift原理/iOSSwiftTest 函数响应式编程/.build/arm64-apple-macosx/debug/iOSSwiftTest.build/Tools/Cache~partial.swiftmodule",
+    "swift-dependencies": "/Users/karosli/Documents/Study/iOS/Swift/Swift原理/iOSSwiftTest 函数响应式编程/.build/arm64-apple-macosx/debug/iOSSwiftTest.build/Tools/Cache.swiftdeps"
+  },
+  "/Users/karosli/Documents/Study/iOS/Swift/Swift原理/iOSSwiftTest 函数响应式编程/iOSSwiftTest/ViewController.swift": {
+    "dependencies": "/Users/karosli/Documents/Study/iOS/Swift/Swift原理/iOSSwiftTest 函数响应式编程/.build/arm64-apple-macosx/debug/iOSSwiftTest.build/ViewController.d",
+    "object": "/Users/karosli/Documents/Study/iOS/Swift/Swift原理/iOSSwiftTest 函数响应式编程/.build/arm64-apple-macosx/debug/iOSSwiftTest.build/ViewController.swift.o",
+    "swiftmodule": "/Users/karosli/Documents/Study/iOS/Swift/Swift原理/iOSSwiftTest 函数响应式编程/.build/arm64-apple-macosx/debug/iOSSwiftTest.build/ViewController~partial.swiftmodule",
+    "swift-dependencies": "/Users/karosli/Documents/Study/iOS/Swift/Swift原理/iOSSwiftTest 函数响应式编程/.build/arm64-apple-macosx/debug/iOSSwiftTest.build/ViewController.swiftdeps"
+  },
+  "/Users/karosli/Documents/Study/iOS/Swift/Swift原理/iOSSwiftTest 函数响应式编程/iOSSwiftTest/main.swift": {
+    "dependencies": "/Users/karosli/Documents/Study/iOS/Swift/Swift原理/iOSSwiftTest 函数响应式编程/.build/arm64-apple-macosx/debug/iOSSwiftTest.build/main.d",
+    "object": "/Users/karosli/Documents/Study/iOS/Swift/Swift原理/iOSSwiftTest 函数响应式编程/.build/arm64-apple-macosx/debug/iOSSwiftTest.build/main.swift.o",
+    "swiftmodule": "/Users/karosli/Documents/Study/iOS/Swift/Swift原理/iOSSwiftTest 函数响应式编程/.build/arm64-apple-macosx/debug/iOSSwiftTest.build/main~partial.swiftmodule",
+    "swift-dependencies": "/Users/karosli/Documents/Study/iOS/Swift/Swift原理/iOSSwiftTest 函数响应式编程/.build/arm64-apple-macosx/debug/iOSSwiftTest.build/main.swiftdeps"
+  }
+}

@@ -1,0 +1,4 @@
+module RxSwift {
+    header "/Users/karosli/Documents/Study/iOS/Swift/Swift原理/iOSSwiftTest 函数响应式编程/.build/arm64-apple-macosx/debug/RxSwift.build/RxSwift-Swift.h"
+    requires objc
+}

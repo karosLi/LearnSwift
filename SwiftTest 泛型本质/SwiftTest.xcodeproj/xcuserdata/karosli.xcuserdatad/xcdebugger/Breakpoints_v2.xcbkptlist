@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "F7EE4735-2E51-40A4-A50D-92D85E0F9FE6"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.AddressBreakpoint">
+         <BreakpointContent
+            uuid = "AFB36E09-37EF-4B1E-802F-F97A648F8019"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            symbolName = "*0x100003004">
+            <Locations>
+               <Location
+                  uuid = "AFB36E09-37EF-4B1E-802F-F97A648F8019 - dcfedd19c87e9bf4"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "main"
+                  moduleName = "SwiftTest"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/karosli/Documents/Study/iOS/Swift/Swift%E5%8E%9F%E7%90%86/SwiftTest%E6%B3%9B%E5%9E%8B%E6%9C%AC%E8%B4%A8/SwiftTest/main.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "18"
+                  endingLineNumber = "18"
+                  offsetFromSymbolStart = "156">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.AddressBreakpoint">
+         <BreakpointContent
+            uuid = "88470521-1A7A-4984-8C3C-7AE1F7DBD0C4"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            symbolName = "*0x10000318b">
+            <Locations>
+               <Location
+                  uuid = "88470521-1A7A-4984-8C3C-7AE1F7DBD0C4 - dcfedd19c87e9b13"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "main"
+                  moduleName = "SwiftTest"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/karosli/Documents/Study/iOS/Swift/Swift%E5%8E%9F%E7%90%86/SwiftTest%E6%B3%9B%E5%9E%8B%E6%9C%AC%E8%B4%A8/SwiftTest/main.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "19"
+                  endingLineNumber = "19"
+                  offsetFromSymbolStart = "123">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.AddressBreakpoint">
+         <BreakpointContent
+            uuid = "F428B81D-5C41-4962-9795-E89EEEA975FE"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            symbolName = "*0x1000032a9">
+            <Locations>
+               <Location
+                  uuid = "F428B81D-5C41-4962-9795-E89EEEA975FE - a3fd8d5a7ffa961c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SwiftTest.swapValus&lt;T&gt;(inout T, inout T) -&gt; ()"
+                  moduleName = "SwiftTest"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/karosli/Documents/Study/iOS/Swift/Swift%E5%8E%9F%E7%90%86/SwiftTest%E6%B3%9B%E5%9E%8B%E6%9C%AC%E8%B4%A8/SwiftTest/main.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "105">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.AddressBreakpoint">
+         <BreakpointContent
+            uuid = "0736E7F3-9AB1-4898-A86B-348BB01D6C28"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            symbolName = "*0x100003260">
+            <Locations>
+               <Location
+                  uuid = "0736E7F3-9AB1-4898-A86B-348BB01D6C28 - cbb007e6f284a317"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SwiftTest.swapValus&lt;T&gt;(inout T, inout T) -&gt; ()"
+                  moduleName = "SwiftTest"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/karosli/Documents/Study/iOS/Swift/Swift%E5%8E%9F%E7%90%86/SwiftTest%E6%B3%9B%E5%9E%8B%E6%9C%AC%E8%B4%A8/%3Ccompiler-generated%3E"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "32">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.AddressBreakpoint">
+         <BreakpointContent
+            uuid = "76B493F1-4A25-4234-AF3F-E47DBC1F0C93"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            symbolName = "*0x100003286">
+            <Locations>
+               <Location
+                  uuid = "76B493F1-4A25-4234-AF3F-E47DBC1F0C93 - a3fd8d5a7ffa961c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SwiftTest.swapValus&lt;T&gt;(inout T, inout T) -&gt; ()"
+                  moduleName = "SwiftTest"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/karosli/Documents/Study/iOS/Swift/Swift%E5%8E%9F%E7%90%86/SwiftTest%E6%B3%9B%E5%9E%8B%E6%9C%AC%E8%B4%A8/SwiftTest/main.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "70">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>

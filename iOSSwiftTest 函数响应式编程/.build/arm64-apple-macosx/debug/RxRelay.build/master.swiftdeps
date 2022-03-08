@@ -1,0 +1,9 @@
+version: "Apple Swift version 5.4.2 (swiftlang-1205.0.28.2 clang-1205.0.19.57)"
+options: "3216491d182eeb97d6790fefeb02013c"
+build_time: [1629443685, 542788000]
+inputs:
+  "/Users/karosli/Documents/Study/iOS/Swift/Swift\u539F\u7406/iOSSwiftTest \u51FD\u6570\u54CD\u5E94\u5F0F\u7F16\u7A0B/.build/checkouts/RxSwift/Sources/RxRelay/BehaviorRelay.swift": [1629443427, 20636742]
+  "/Users/karosli/Documents/Study/iOS/Swift/Swift\u539F\u7406/iOSSwiftTest \u51FD\u6570\u54CD\u5E94\u5F0F\u7F16\u7A0B/.build/checkouts/RxSwift/Sources/RxRelay/Observable+Bind.swift": [1629443427, 20790074]
+  "/Users/karosli/Documents/Study/iOS/Swift/Swift\u539F\u7406/iOSSwiftTest \u51FD\u6570\u54CD\u5E94\u5F0F\u7F16\u7A0B/.build/checkouts/RxSwift/Sources/RxRelay/PublishRelay.swift": [1629443427, 20848866]
+  "/Users/karosli/Documents/Study/iOS/Swift/Swift\u539F\u7406/iOSSwiftTest \u51FD\u6570\u54CD\u5E94\u5F0F\u7F16\u7A0B/.build/checkouts/RxSwift/Sources/RxRelay/ReplayRelay.swift": [1629443427, 20909949]
+  "/Users/karosli/Documents/Study/iOS/Swift/Swift\u539F\u7406/iOSSwiftTest \u51FD\u6570\u54CD\u5E94\u5F0F\u7F16\u7A0B/.build/checkouts/RxSwift/Sources/RxRelay/Utils.swift": [1629443427, 20968865]

@@ -1,0 +1,35 @@
+{
+  "": {
+    "swift-dependencies": "/Users/karosli/Documents/Study/iOS/Swift/Swift原理/iOSSwiftTest 函数响应式编程/.build/arm64-apple-macosx/debug/RxRelay.build/master.swiftdeps"
+  },
+  "/Users/karosli/Documents/Study/iOS/Swift/Swift原理/iOSSwiftTest 函数响应式编程/.build/checkouts/RxSwift/Sources/RxRelay/BehaviorRelay.swift": {
+    "dependencies": "/Users/karosli/Documents/Study/iOS/Swift/Swift原理/iOSSwiftTest 函数响应式编程/.build/arm64-apple-macosx/debug/RxRelay.build/BehaviorRelay.d",
+    "object": "/Users/karosli/Documents/Study/iOS/Swift/Swift原理/iOSSwiftTest 函数响应式编程/.build/arm64-apple-macosx/debug/RxRelay.build/BehaviorRelay.swift.o",
+    "swiftmodule": "/Users/karosli/Documents/Study/iOS/Swift/Swift原理/iOSSwiftTest 函数响应式编程/.build/arm64-apple-macosx/debug/RxRelay.build/BehaviorRelay~partial.swiftmodule",
+    "swift-dependencies": "/Users/karosli/Documents/Study/iOS/Swift/Swift原理/iOSSwiftTest 函数响应式编程/.build/arm64-apple-macosx/debug/RxRelay.build/BehaviorRelay.swiftdeps"
+  },
+  "/Users/karosli/Documents/Study/iOS/Swift/Swift原理/iOSSwiftTest 函数响应式编程/.build/checkouts/RxSwift/Sources/RxRelay/Observable+Bind.swift": {
+    "dependencies": "/Users/karosli/Documents/Study/iOS/Swift/Swift原理/iOSSwiftTest 函数响应式编程/.build/arm64-apple-macosx/debug/RxRelay.build/Observable+Bind.d",
+    "object": "/Users/karosli/Documents/Study/iOS/Swift/Swift原理/iOSSwiftTest 函数响应式编程/.build/arm64-apple-macosx/debug/RxRelay.build/Observable+Bind.swift.o",
+    "swiftmodule": "/Users/karosli/Documents/Study/iOS/Swift/Swift原理/iOSSwiftTest 函数响应式编程/.build/arm64-apple-macosx/debug/RxRelay.build/Observable+Bind~partial.swiftmodule",
+    "swift-dependencies": "/Users/karosli/Documents/Study/iOS/Swift/Swift原理/iOSSwiftTest 函数响应式编程/.build/arm64-apple-macosx/debug/RxRelay.build/Observable+Bind.swiftdeps"
+  },
+  "/Users/karosli/Documents/Study/iOS/Swift/Swift原理/iOSSwiftTest 函数响应式编程/.build/checkouts/RxSwift/Sources/RxRelay/PublishRelay.swift": {
+    "dependencies": "/Users/karosli/Documents/Study/iOS/Swift/Swift原理/iOSSwiftTest 函数响应式编程/.build/arm64-apple-macosx/debug/RxRelay.build/PublishRelay.d",
+    "object": "/Users/karosli/Documents/Study/iOS/Swift/Swift原理/iOSSwiftTest 函数响应式编程/.build/arm64-apple-macosx/debug/RxRelay.build/PublishRelay.swift.o",
+    "swiftmodule": "/Users/karosli/Documents/Study/iOS/Swift/Swift原理/iOSSwiftTest 函数响应式编程/.build/arm64-apple-macosx/debug/RxRelay.build/PublishRelay~partial.swiftmodule",
+    "swift-dependencies": "/Users/karosli/Documents/Study/iOS/Swift/Swift原理/iOSSwiftTest 函数响应式编程/.build/arm64-apple-macosx/debug/RxRelay.build/PublishRelay.swiftdeps"
+  },
+  "/Users/karosli/Documents/Study/iOS/Swift/Swift原理/iOSSwiftTest 函数响应式编程/.build/checkouts/RxSwift/Sources/RxRelay/ReplayRelay.swift": {
+    "dependencies": "/Users/karosli/Documents/Study/iOS/Swift/Swift原理/iOSSwiftTest 函数响应式编程/.build/arm64-apple-macosx/debug/RxRelay.build/ReplayRelay.d",
+    "object": "/Users/karosli/Documents/Study/iOS/Swift/Swift原理/iOSSwiftTest 函数响应式编程/.build/arm64-apple-macosx/debug/RxRelay.build/ReplayRelay.swift.o",
+    "swiftmodule": "/Users/karosli/Documents/Study/iOS/Swift/Swift原理/iOSSwiftTest 函数响应式编程/.build/arm64-apple-macosx/debug/RxRelay.build/ReplayRelay~partial.swiftmodule",
+    "swift-dependencies": "/Users/karosli/Documents/Study/iOS/Swift/Swift原理/iOSSwiftTest 函数响应式编程/.build/arm64-apple-macosx/debug/RxRelay.build/ReplayRelay.swiftdeps"
+  },
+  "/Users/karosli/Documents/Study/iOS/Swift/Swift原理/iOSSwiftTest 函数响应式编程/.build/checkouts/RxSwift/Sources/RxRelay/Utils.swift": {
+    "dependencies": "/Users/karosli/Documents/Study/iOS/Swift/Swift原理/iOSSwiftTest 函数响应式编程/.build/arm64-apple-macosx/debug/RxRelay.build/Utils.d",
+    "object": "/Users/karosli/Documents/Study/iOS/Swift/Swift原理/iOSSwiftTest 函数响应式编程/.build/arm64-apple-macosx/debug/RxRelay.build/Utils.swift.o",
+    "swiftmodule": "/Users/karosli/Documents/Study/iOS/Swift/Swift原理/iOSSwiftTest 函数响应式编程/.build/arm64-apple-macosx/debug/RxRelay.build/Utils~partial.swiftmodule",
+    "swift-dependencies": "/Users/karosli/Documents/Study/iOS/Swift/Swift原理/iOSSwiftTest 函数响应式编程/.build/arm64-apple-macosx/debug/RxRelay.build/Utils.swiftdeps"
+  }
+}

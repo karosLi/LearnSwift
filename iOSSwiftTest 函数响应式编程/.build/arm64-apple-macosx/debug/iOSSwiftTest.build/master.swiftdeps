@@ -1,0 +1,10 @@
+version: "Apple Swift version 5.4.2 (swiftlang-1205.0.28.2 clang-1205.0.19.57)"
+options: "e77ee0ce68cdbef6b613ee237c9236b6"
+build_time: [1629443690, 65732000]
+inputs:
+  "/Users/karosli/Documents/Study/iOS/Swift/Swift\u539F\u7406/iOSSwiftTest \u51FD\u6570\u54CD\u5E94\u5F0F\u7F16\u7A0B/iOSSwiftTest/AppDelegate.swift": !dirty [1629256955, 598562717]
+  "/Users/karosli/Documents/Study/iOS/Swift/Swift\u539F\u7406/iOSSwiftTest \u51FD\u6570\u54CD\u5E94\u5F0F\u7F16\u7A0B/iOSSwiftTest/SceneDelegate.swift": !dirty [1629256891, 336842060]
+  "/Users/karosli/Documents/Study/iOS/Swift/Swift\u539F\u7406/iOSSwiftTest \u51FD\u6570\u54CD\u5E94\u5F0F\u7F16\u7A0B/iOSSwiftTest/Tools/Asyncs.swift": !dirty [1629341754, 527173400]
+  "/Users/karosli/Documents/Study/iOS/Swift/Swift\u539F\u7406/iOSSwiftTest \u51FD\u6570\u54CD\u5E94\u5F0F\u7F16\u7A0B/iOSSwiftTest/Tools/Cache.swift": !dirty [1629344349, 888636470]
+  "/Users/karosli/Documents/Study/iOS/Swift/Swift\u539F\u7406/iOSSwiftTest \u51FD\u6570\u54CD\u5E94\u5F0F\u7F16\u7A0B/iOSSwiftTest/ViewController.swift": !dirty [1629442457, 892636249]
+  "/Users/karosli/Documents/Study/iOS/Swift/Swift\u539F\u7406/iOSSwiftTest \u51FD\u6570\u54CD\u5E94\u5F0F\u7F16\u7A0B/iOSSwiftTest/main.swift": !dirty [1629257130, 61336398]
